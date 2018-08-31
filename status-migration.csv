@@ -1055,7 +1055,7 @@ Workaround: To make it work, had to create a ""user_settings.py"" file from samp
 613830,CHRONO TRIGGER,24 Aug ,Platinum,Completely Stable,Perfect + Ds4 wireless,Ubuntu 18.04Lts,NVIDIA 396.51,i7 4770k Gtx 780Ti,,Default,,,929primaryKey
 613830,CHRONO TRIGGER,25 Aug ,Silver,Stable,"Intro video doesnt show , crashed ramdonly once",Fedora 28 64-bit (Kernel 4.17.17),Mesa 18.0.5,i5-6200U/Intel HD Graphics 520,,Default,FALSE,,930primaryKey
 613830,CHRONO TRIGGER,27 Aug ,Silver,Stable,Performance is good. Intro video does not play. Just press Esc to skip it.,Linux Mint 19 64-bit (Kernel 4.15),NVIDIA 396.54,i7-6700k / GTX 1080,,Default,,613830,931primaryKey
-613830,CHRONO TRIGGER,28 Aug ,,Unstable,"For the most part works great, but interacting with stores/vendors crashes the game consistently.",Ubuntu 18.04.1 LTS 64-Bit (Kernel 4.15.0-33),Mesa 18.0.5,Ryzen 7 1700,,3.7-4 Beta,,613830,932primaryKey
+613830,CHRONO TRIGGER,28 Aug ,Bronze,Unstable,"For the most part works great, but interacting with stores/vendors crashes the game consistently.",Ubuntu 18.04.1 LTS 64-Bit (Kernel 4.15.0-33),Mesa 18.0.5,Ryzen 7 1700,,3.7-4 Beta,,613830,932primaryKey
 269330,Chronology,22 Aug ,,Crashes,"wine: Call from 0x7b43c45c to unimplemented function mscoree.dll.CorIsLatestSvc, aborting",Fedora 28 64-bit,NVIDIA 396.45,i7-4770 / NVIDIA GTX 1070,,Default,FALSE,,933primaryKey
 269330,Chronology,28 Aug ,,Won't Start,Reason unknown,Antergos (Kernel 4.18.5),NVIDIA 396.54,i7-2600 / GTX 1070,,Default,,269330,934primaryKey
 711660,Chuchel,27 Aug ,Platinum,Stable,Works well.,Fedora 28 (Kernel 4.17.14-202),NVIDIA 396.54,i5-4430 / GTX 1050 Ti,1.0.0,Default,,711660,935primaryKey
