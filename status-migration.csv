@@ -1400,7 +1400,7 @@ and add library override for dinput8 (native, builtin).",Arch Linux,Nvidia 396.5
 298930,Darkness Within 1: In Pursuit of Loath Nolder,29 Aug ,,Completely Stable,No issues observed,Antergos (Kernel 4.18.5),NVIDIA 396.54,i7-2600 / GTX 1070,,Default,,298930,1231primaryKey
 298950,Darkness Within 2: The Dark Lineage Director's Cut Edition,22 Aug ,Platinum,Completely Stable,No noticeable issues,Ubuntu 18.04.1 LTS,Mesa 18.03.0,I5 3570k / AMD HD 7870,,Default,FALSE,https://store.steampowered.com/app/298950/Darkness_Within_2_The_Dark_Lineage/,1232primaryKey
 401910,Darknet,23 Aug ,,Stable,Non-VR mode tested only,OpenSuSE/Leap 15.0,NVIDIA 390.67,Ryzen 5 1600/GTX 1050ti,,Default,,,1233primaryKey
-50620,Darksiders,22 Aug ,,Crashes,,Debian Stretch,Nvidia 396.54,i7-4770k / GTX 1080ti,,Default,FALSE,,1234primaryKey
+50620,Darksiders,22 Aug ,Garbage,Crashes,,Debian Stretch,Nvidia 396.54,i7-4770k / GTX 1080ti,,Default,FALSE,,1234primaryKey
 50620,Darksiders,22 Aug ,,Unplayable,"No videos, no menu, if you tap around you can get the game to start. The game itself runs but the only overlay is the map. So, unplayable.",Gentoo Linux,MESA 18.1.6,Intel UHD620,,Default,FALSE,,1235primaryKey
 50620,Darksiders,26 Aug ,,Unplayable,Black screen/ with sound; will run in Lutris,Kubuntu 18.04,NVIDIA 390.64,Intel Q6600 / GTS 450,,Default,,50620,1236primaryKey
 50650,Darksiders II,22 Aug ,,Crashes,"Crashes after the THQ, Vigil videos",Antergos,Mesa 18.1.5,"Ryzen 1500, rx 560",,Default,FALSE,,1237primaryKey
@@ -1411,7 +1411,7 @@ and add library override for dinput8 (native, builtin).",Arch Linux,Nvidia 396.5
 388410,Darksiders II Deathinitive Edition,28 Aug ,,Stable,"Runs with option ""PROTON_NO_ESYNC"":""1""
 Frozen enemies sometimes become invisible for a short duration.",Arch Linux 64-bit (Kernel 4.18.4-arch1-1-ARCH),NVIDIA 390.77,i5-6600K,,Default,,388410,1242primaryKey
 462780,Darksiders Warmastered Edition,22 Aug ,,Crashes,Crashes to black screen on start with a couple of Windows error messages,Ubuntu 18.04,NVIDIA 396.54,Ryzen 7 1800X / 1080Ti O11G,,Default,FALSE,,1243primaryKey
-462780,Darksiders Warmastered Edition,22 Aug ,,Crashes,,Gentoo Linux,MESA 18.1.6,Intel UHD620,,Default,FALSE,,1244primaryKey
+462780,Darksiders Warmastered Edition,22 Aug ,Garbage,Crashes,,Gentoo Linux,MESA 18.1.6,Intel UHD620,,Default,FALSE,,1244primaryKey
 462780,Darksiders Warmastered Edition,22 Aug ,,Crashes,"black screen, dialog box with error messages",Arch Linux,NVIDIA 396.51,i7-6700k / GTX 1070,,Default,FALSE,,1245primaryKey
 462780,Darksiders Warmastered Edition,23 Aug ,,Crashes,Doesn't boot,Antergos,MEsa-git 18.3,"i5-8400, RX 480",,Default,FALSE,,1246primaryKey
 462780,Darksiders Warmastered Edition,24 Aug ,Garbage,Won't Start,Black screen and nothing else,Ubuntu 18.04,Mesa 18.3.0-devel,Ryzen 5 1400 / RX 460,,Default,FALSE,,1247primaryKey
@@ -1700,7 +1700,7 @@ Controller support: Xbox 360 controller works fine.","Fedora 28, 64-bit (Kernel 
 205100,Dishonored,27 Aug ,,Completely Stable,Works fine,Debian 9 (Kernel 4.9.0-8-amd64),NVIDIA 390.77,8 x AMD FX(tm)-8350 Eight-Core Processor,,Default,,205100,1498primaryKey
 205100,Dishonored,27 Aug ,,Stable,Ran on highest settings in 1920x1080 res with slight temporary stuttering after loading new areas. Mouse movement feels a little weird sometimes.,Solus 3.99 (Kernel 4.17.17-87),Mesa 18.1.6,i7-4790K / RX Vega 64,,3.7-4 Beta,,205100,1499primaryKey
 205100,Dishonored,28 Aug ,,Crashes,Crashes before reaching the main menu. Cloud sync also does not work.,Ubuntu 18.04.1 LTS 64 bit (kernel 4.15.0-33-generic), 3.0 Mesa 18.0.5,i5-3450 / RX 580,,Default,,205100,1500primaryKey
-403640,Dishonored 2,21 Aug ,,Crashes,,Ubuntu 18.04,Nvidia 396.51,i7-4790K / GTX 970,,Default,FALSE,,1501primaryKey
+403640,Dishonored 2,21 Aug ,Garbage,Crashes,,Ubuntu 18.04,Nvidia 396.51,i7-4790K / GTX 970,,Default,FALSE,,1501primaryKey
 403640,Dishonored 2,22 Aug ,,Crashes,Doesn't start,Arch Linux (Kernel 4.18.3),Mesa 18.1.6,Ryzen 1700X / RX 480,,Default,FALSE,https://store.steampowered.com/app/403640/Dishonored_2/,1502primaryKey
 403640,Dishonored 2,22 Aug ,,Crashes,"Briefly ""running"", silently dies.",Ubuntu 18.04,Mesa 18.3.0-devel,Ryzen 5 1400 / RX 580,,Default,,,1503primaryKey
 403640,Dishonored 2,25 Aug ,,Crashes,Crash during start on Plasma-Wayland,Arch Linux 64-bit (Kernel 4.18.5),Mesa-git 18.3.0_devel.104104.de57926dc9,Ryzen 7 1700 / RX 480,Normal,,,https://store.steampowered.com/app/403640/,1504primaryKey
@@ -1739,7 +1739,7 @@ Didn't test online connectivity.","Fedora 28, 64-bit (Kernel 4.17.14)",Nvidia 39
 Game doesn't start",Arch Linux,NVIDIA 396.51,i7-6700k / GTX 1070,,Default,FALSE,,1531primaryKey
 243950,Divinity: Dragon Commander,22 Aug ,Platinum,Completely Stable,,Fedora,Nvidia 396.51,i7-4770K / GTX 770,,Default,FALSE,,1532primaryKey
 243950,Divinity: Dragon Commander,27 Aug ,Platinum,Completely Stable,Absolutely flawless. 1080p/60fps max settings.,Ubuntu 18.04 LTS,Mesa 18.3.0-devel,I5-4690k/R9 280,,3.7-4 Beta,,243950,1533primaryKey
-435150,Divinity: Original Sin 2,22 Aug ,,Crashes,,"Ubuntu 18.04, Nivida 394",,Intel i7-8750H (12) @ 4.100GHz / NVIDIA GeForce GTX 1060 Mobile,,Default,FALSE,,1534primaryKey
+435150,Divinity: Original Sin 2,22 Aug ,Garbage,Crashes,,"Ubuntu 18.04, Nivida 394",,Intel i7-8750H (12) @ 4.100GHz / NVIDIA GeForce GTX 1060 Mobile,,Default,FALSE,,1534primaryKey
 435150,Divinity: Original Sin 2,22 Aug ,,Stable,"Crash at first, some Workarounds to get it up and running: Change SupportTool.exe to SupportTool.exe.bak and EoCApp.exe to SupportTool.exe. Then also set xaudio2_7: native,builtin through winecfg",Linux Mint 19,NVIDIA 396.51,AMD Ryzen 7  1700 / NVIDIA GTX 1060,,Default,FALSE,,1535primaryKey
 435150,Divinity: Original Sin 2,22 Aug ,,Crashes,This is weird since the game seems to work fine with wine-staging 3.11 + DXVK 0.5x,Fedora 28,amdgpu 18.0.1,r7 1700/Radeon RX 580,,Default,PLANNED,,1536primaryKey
 435150,Divinity: Original Sin 2,23 Aug ,,Crashes,Just not run,openSUSE Tumbleweed 64-bit,NVIDIA 396.51,i7,,Default,,,1537primaryKey
@@ -1751,7 +1751,7 @@ under libraries add xaudio2_7 > set to native, builtin",Slackware64 14.2,NVIDIA 
 230050,DLC Quest,22 Aug ,,Crashes,Won't work probably because .NET,Debian Stretch,Nvidia 396.54,i7-4770K / GTX 1080ti,,Default,FALSE,,1542primaryKey
 230050,DLC Quest,23 Aug ,Garbage,Won't Start,Simply doesnt start,Ubuntu 18.04.1 LTS,NVIDIA 396.51,Intel i5-4690K/Geforce GTX 1050,,Default,,https://store.steampowered.com/app/230050/,1543primaryKey
 220440,DmC Devil May Cry,21 Aug ,Garbage,Won't Start,,Ubuntu 18.04,nVidia 396.51,i7-4790K / GTX 970,,Default,FALSE,,1544primaryKey
-220440,DmC Devil May Cry,22 Aug ,,Crashes,,Debian Stretch,Nvidia 296.54,i7-4770K / GTX 1080ti,,Default,FALSE,,1545primaryKey
+220440,DmC Devil May Cry,22 Aug ,Garbage,Crashes,,Debian Stretch,Nvidia 296.54,i7-4770K / GTX 1080ti,,Default,FALSE,,1545primaryKey
 220440,DmC Devil May Cry,24 Aug ,Garbage,Won't Start,Won't start.,Linux Mint 18.3 64-bit (Kernel 4.10),nvidia-384,AMD A4-3300 / GTX 650 Ti Boost,,Default,FALSE,https://store.steampowered.com/app/220440/DmC_Devil_May_Cry/,1546primaryKey
 220440,DmC Devil May Cry,27 Aug ,Garbage,Won't Start,Game runs for a second and then nothing,Arch Linux 64-bit (4.18.5-arch1-1-ARCH),NVIDIA 396.54,i7-6700K / GTX 1070,,Default,,220440,1547primaryKey
 220440,DmC: Devil May Cry,28 Aug ,Garbage,Won't Start,Won't start,Fedora 29 (Kernel 4.17.18),NVIDIA 396.45,AMD Threadripper 1920x / GTX 1080ti,,Default,,220440,1548primaryKey
@@ -1836,8 +1836,8 @@ The games works around 150fps with vulkan.",Debian Stretch,Nvidia 396.54,i7-4770
 889730,Downtown Mafia: Gang Wars,24 Aug ,Platinum,Completely Stable,flawless,Ubuntu 18.04.1 LTS,Mesa 18.3.0-devel,Intel i5-7200U / HD Graphics 620 (Kaby Lake GT2),,Default,TRUE,https://store.steampowered.com/app/889730/Downtown_Mafia_Gang_Wars/,1625primaryKey
 360740,Downwell,21 Aug ,Platinum,Completely Stable,No noticeable issues after one run,Ubuntu 18.04,NVIDIA 396.51,i5-6600K / GTX 980 Ti,,Default,FALSE,,1626primaryKey
 360740,Downwell,22 Aug ,Platinum,Completely Stable,"Runs perfectly provided you expand the file descriptors like the github says, which maybe people should follow",Arch Linux,NVIDIA 396.51,Nvidia GeForce GT 730,,Default,FALSE,,1627primaryKey
-360740,Downwell,22 Aug ,,Crashes,,Antergos,,?,,Default,FALSE,,1628primaryKey
-360740,Downwell,22 Aug ,,Crashes,,ArchLinux,,?,,Default,FALSE,,1629primaryKey
+360740,Downwell,22 Aug ,Garbage,Crashes,,Antergos,,?,,Default,FALSE,,1628primaryKey
+360740,Downwell,22 Aug ,Garbage,Crashes,,ArchLinux,,?,,Default,FALSE,,1629primaryKey
 360740,Downwell,22 Aug ,Platinum,Completely Stable,"It would initially crash from `eventfd: Too many open files`; I increased the file descriptor limit, and it no longer crashes. See here: https://github.com/zfigura/wine/blob/esync/README.esync#L9",Arch Linux,Nvidia 396.51-5,"i5-4670K @ 3.8GHz, GTX 770",,Default,FALSE,,1630primaryKey
 360740,Downwell,24 Aug ,,Crashes,Crush at startup,debian 4.9.0-6-amd64,Nvidia 375.82,intel pentium g4600 / GeForce 710,,Default,FALSE,https://store.steampowered.com/app/360740/Downwell/,1631primaryKey
 806960,Dr. Cares - Amy's Pet Clinic,25 Aug ,Platinum,Completely Stable,No apparent issues.,Ubuntu 17.10 (64-bit),NVIDIA 340.104,AMD Athlon X2 5000+ / GeForce 8500 GT,,Default,,806960,1632primaryKey
@@ -2042,8 +2042,8 @@ Game logs show that AI engine has encountered fatal error and timeouts. Game ses
 265610,Epic Battle Fantasy 4,24 Aug ,Garbage,Won't Start,Doesn't launch.,Linux Mint 18.3 64-bit (4.10.0-33-generic),NVIDIA 384.130,Intel i3-3250 (4) @ 3.500GHz / NVIDIA GeForce GTX 550 Ti ,,Default,FALSE,https://steamdb.info/app/265610/,1804primaryKey
 378770,ESCHATOS,22 Aug ,Platinum,Completely Stable,Essentially flawless,Ubuntu 18.04 64-bit,NVIDIA 396.51,FX-8320 / GTX 1080,,Default,FALSE,,1805primaryKey
 378770,ESCHATOS,26 Aug ,Platinum,Completely Stable,"Flawless, did not have to change lauch options or anything.",Elementary OS 5.0 b1 (Kernel 4.15.0),Mesa 18.3.0-devel padoka,TR 1900X / RX 56 Nano,,3.7-4 Beta,,378770,1806primaryKey
-280200,Eterium,21 Aug ,,Crashes,,Antergos,Mesa 1.18.1.6-1,Intel HD 530,,Default,,,1807primaryKey
-531640,Eternal Card Game,21 Aug ,,Crashes,,Arch linux,nvidia 396.51,i7-6700HQ / Nvidia GTX 960M,,Default,FALSE,,1808primaryKey
+280200,Eterium,21 Aug ,Garbage,Crashes,,Antergos,Mesa 1.18.1.6-1,Intel HD 530,,Default,,,1807primaryKey
+531640,Eternal Card Game,21 Aug ,Garbage,Crashes,,Arch linux,nvidia 396.51,i7-6700HQ / Nvidia GTX 960M,,Default,FALSE,,1808primaryKey
 531640,Eternal Card Game,22 Aug ,Silver,Completely Stable,"Possible audio issue (crackling sound effects) when changing windows with alt+tab. May be linked to menus, did not occur consistently.",Neon 5.13,NVIDIA 384.130,i7 6700K / NVIDIA GTX 1080 TI,,Default,,,1809primaryKey
 531640,Eternal Card Game,22 Aug ,Platinum,Completely Stable,No noticeable issues,Antergos 64-bit (Kernel 4.18.3),Mesa 18.1.6,i5-4690K / R9 280,,Default,FALSE,https://store.steampowered.com/app/531640/,1810primaryKey
 531640,Eternal Card Game,23 Aug ,,Stable,"did not test buying things from the store, but it otherwise seems to run great",KDE Neon 16.04 (ubuntu-kernel 4.15.0-32-generic),NVIDIA 396.51,GTX 860M,,Default,FALSE,,1811primaryKey
@@ -2152,7 +2152,7 @@ I'm using a RX 470 with medium settings, and solid 60 fps (haven't tried higher 
 113420,Fallen Earth,23 Aug ,,Crashes,Fallen Earth Updater crashes on start into the window for error submission.,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,AMD FX-6100 / GTX 960 4GB,,Default,FALSE,https://steamdb.info/app/113420/,1903primaryKey
 228260,Fallen Enchantress: Legendary Heroes,22 Aug ,,Crashes,Launches to title screen then crashes,Ubuntu 18.04,Mesa ?,i5-4590s / Intel HD4600,,Default,FALSE,,1904primaryKey
 228260,Fallen Enchantress: Legendary Heroes,25 Aug ,,Crashes,Crashes steam client and game on start,Gentoo 64-bit (Kernel 4.18.5-gentoo),Nvidia 396.54,i9-7940X / GTX 1070 TI,,3.7-4 beta,,,1905primaryKey
-38400,Fallout,21 Aug ,,Crashes,,Ubuntu 18.04,NVIDIA 396.51,i5 4460 / GTX 960,,Default,,,1906primaryKey
+38400,Fallout,21 Aug ,Garbage,Crashes,,Ubuntu 18.04,NVIDIA 396.51,i5 4460 / GTX 960,,Default,,,1906primaryKey
 38400,Fallout,22 Aug ,,Crashes,Doesn't start,Debian unstable,NVIDIA 390.77,i5-7400 / NVIDIA GTX 1070,,Default,FALSE,https://store.steampowered.com/app/38400/,1907primaryKey
 38400,Fallout,23 Aug ,,Crashes,Crashes immediately after start.,Ubuntu 18.04,NVIDIA 396.54,AMD FX-6100 / GTX 960,,Default,FALSE,https://steamdb.info/app/38400/,1908primaryKey
 38400,Fallout,23 Aug ,Garbage,Won't Start,Doesn't start.,Manjaro Unstable (Kernel 4.18.4),NVIDIA 396.54,Intel 2500k / GTX 970,,Default,FALSE,https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/,1909primaryKey
@@ -2289,7 +2289,7 @@ I'm using a RX 470 with medium settings, and solid 60 fps (haven't tried higher 
 224760,FEZ,26 Aug ,Platinum,Completely Stable,Works perfectly. No signs of graphical glitches or performance issues. ,Ubuntu 18.04 64-bit,NVIDIA 396.54,i5-2400 / GTX 970,1.12,Default,,224760,2039primaryKey
 802400,Fhtagn! - Tales of the Creeping Madness,22 Aug ,Platinum,Completely Stable,Works perfectly,Ubuntu 18.04.1 64-Bit (Kernel 4.15),NVIDIA 390,i7-8750H/GTX 1050 TI Mobile,,Default,,https://steamdb.info/app/802400/,2040primaryKey
 215710,Fieldrunnders 2,28 Aug ,,Completely Stable,Perfect,Manjaro Stable 64-bit (kernel 4.14.66-1),Messa 18.1.6,Ryzen 5 1400 / HD6570,,Default,,215710,2041primaryKey
-209690,Fieldrunners,22 Aug ,,Crashes,,Fedora 28,MESA 18.0.5-3,"i5-4690K, AMD RX 560",,Default,,,2042primaryKey
+209690,Fieldrunners,22 Aug ,Garbage,Crashes,,Fedora 28,MESA 18.0.5-3,"i5-4690K, AMD RX 560",,Default,,,2042primaryKey
 209690,Fieldrunners,25 Aug ,,Unplayable,The splash screen launches and the sound plays and it *sounds* like you can interact with the menus but nothing happens,Arch Linux 64-bit (4.18.4-arch1-1-ARCH),nvidia 396.54-1,i7-4790K/GTX 970,,3.7-4 Beta,,https://store.steampowered.com/app/209690/Fieldrunners/,2043primaryKey
 209690,Fieldrunners,28 Aug ,,Unplayable,"Subatomic splash screen is displayed and getting an audio response from clicking with the mouse, but no menu is displayed.",Kubuntu 18.04 64-bit (4.15.0-32),NVIDIA 396.51,AMD FX8350 / NVIDIA GTX660,,3.7-4,,209690,2044primaryKey
 215710,Fieldrunners 2,22 Aug ,Platinum,Completely Stable,,Fedora 28,MESA 18.0.5-3,"i5-4690K, AMD RX 560",,Default,,,2045primaryKey
@@ -2864,7 +2864,7 @@ Work but stutters on max settings 1440p.",Antergos,396.51.02,i7 3770 / GTX 1070,
 457960,Holopoint,25 Aug ,,Unplayable,HTC Vive. Missing textures/models,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,3.7-beta,,457960,2527primaryKey
 215670,Home,27 Aug ,,Unstable,Runs great but crashes after a while,Manjaro Unstable 64-bit (Kernel 4.18.4),NVIDIA 396.54,Intel Core i7-4720HQ/ nvidia 960m,,latest beta 3.7-4,,215670,2528primaryKey
 259810,Home Sheep Home 2,26 Aug ,Platinum,Completely Stable,works perfect,Arch Linux 64-bit (kernel 4.18.3),NVIDIA 396.51,i7-6700HQ / GTX 1060,,Default,,259810,2529primaryKey
-55100,Homefront,22 Aug ,,Crashes,,Ubuntu 18.04,NVIDIA 396.51,i5 4460 / GTX 960,,Default,FALSE,,2530primaryKey
+55100,Homefront,22 Aug ,Garbage,Crashes,,Ubuntu 18.04,NVIDIA 396.51,i5 4460 / GTX 960,,Default,FALSE,,2530primaryKey
 55100,Homefront,22 Aug ,,Crashes,"A regular copy of the game runs on Wine, but the steam version does not even launch. No noticeable error messages.",Arch Linux,NVIDIA 396.24,Intel i7-4710HQ @ 2.50GHz,,Default,FALSE,,2531primaryKey
 55100,Homefront,22 Aug ,,Crashes,Doesn't start at all.,Antergos 64-bit (Kernel 4.18.3),AMDGPU Mesa 18.1.6,i5 6500 / R9 380,,Default,FALSE,,2532primaryKey
 55100,Homefront,22 Aug ,,Unplayable,Doesn't launch,Ubuntu 18.04 64-bit (Kernel 4.15),NVIDIA 396.51,i5 4460 / GTX 960,,Default,,https://store.steampowered.com/app/55100/,2533primaryKey
@@ -2876,7 +2876,7 @@ Work but stutters on max settings 1440p.",Antergos,396.51.02,i7 3770 / GTX 1070,
 223100,Homefront: The Revolution,25 Aug ,,Stable,"Game works even on Plasma Wayland, though it is a little sluggish and Vulkan does work only in window mode (xwayland bug)",Arch Linux 64-bit (Kernel 4.18.5),Mesa-git 18.3.0_devel.104104.de57926dc9,Ryzen 7 1700 / RX 480,BuildID: !733788,Default,FALSE,https://store.steampowered.com/app/223100/,2539primaryKey
 223100,Homefront: The Revolution,26 Aug ,Platinum,Completely Stable,"Performance is good, maybe not quite native but almost.",Kubuntu 18.04 LTS (Kernel 4.15),Mesa 18.0.5,i7-950 / RX 580,,Beta,,223100,2540primaryKey
 244910,Homesick,23 Aug ,,Crashes,Nothing. It seems to fail when Steam tries to do the initial config,ArchLinux (Kernel 4.18.3),NVIDIA 396.51,Ryzen 5 2600 / GTX 770,,Default,FALSE,,2541primaryKey
-244160,Homeworld Remastered Collection,22 Aug ,,Crashes,,Debian Unstable + amdgpu,?,i5-3570k + RX 580,,Default,FALSE,,2542primaryKey
+244160,Homeworld Remastered Collection,22 Aug ,Garbage,Crashes,,Debian Unstable + amdgpu,?,i5-3570k + RX 580,,Default,FALSE,,2542primaryKey
 244160,Homeworld Remastered Collection,22 Aug ,,Crashes,Does not launch ,Arch Linux 64-bit (Kernel 4.17.14) ,i915,i3-3271U / Intel HD 4000,,Default,FALSE,,2543primaryKey
 244160,Homeworld Remastered Collection,22 Aug ,,Crashes,The launcher doesn't start. Possibly due a lack of .NET 4.0? Unfortunately there's no way to directly launch the HWRM executable via Steam so I cannot test if the game is actually runnable.,Fedora 28 (Kernel 4.17.14),NVIDIA 396.45,Ryzen 7 1700 / GTX 1080,,Default,FALSE,https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/,2544primaryKey
 244160,Homeworld Remastered Collection,23 Aug ,,Crashes,does not even launch,OpenSuSE/Leap 15.0,NVIDIA 390.61,Ryzen 5 1600/GTX 1050ti,,Default,,,2545primaryKey
@@ -3044,8 +3044,8 @@ Performance is subpar (pep rally graphic complexity recommended)",Linux Mint 18.
 6880,Just Cause,22 Aug ,,Unplayable,Game stops recognising keyboard after splash screens,Kubuntu 18.04,NVIDIA 390.48,i7 5820k / GTX 980,,Default,FALSE,,2704primaryKey
 6880,Just Cause,22 Aug ,,Unplayable,"Couldn't get past the title screen upon first starting the game. After rebooting, I got into gameplay (about 25fps) but it didn't register keyboard inputs during gameplay, rendering it unplayable.",Linux Mint 18.3 64-bit (Kernel 4.15),Mesa 18.0.5,Pentium E6700 / Radeon HD 5750,,Default,FALSE,https://steamdb.info/app/6880/,2705primaryKey
 6880,Just Cause,24 Aug ,,Stable,Sometimes the controls doesn't respond. To solve this you need to restart the game.,Linux Mint 19 64-bit (Kernel 4.15),NVIDIA 390.48,i3-6100 / GTX 750 Ti,,Default,FALSE,https://steamdb.info/app/6880/,2706primaryKey
-8190,Just Cause 2,21 Aug ,,Crashes,,KDE Neon 5.13,?,?,,Default,FALSE,,2707primaryKey
-8190,Just Cause 2,22 Aug ,,Crashes,,KDE Neon (18.04),Nvidia 396.51,i5-4670k / GTX 770,,Default,FALSE,,2708primaryKey
+8190,Just Cause 2,21 Aug ,Garbage,Crashes,,KDE Neon 5.13,?,?,,Default,FALSE,,2707primaryKey
+8190,Just Cause 2,22 Aug ,Garbage,Crashes,,KDE Neon (18.04),Nvidia 396.51,i5-4670k / GTX 770,,Default,FALSE,,2708primaryKey
 8190,Just Cause 2,23 Aug ,Garbage,Won't Start,,Arch Linux,mesa 18.3,4770k / vega 56,,Default,,,2709primaryKey
 8190,Just Cause 2,23 Aug ,,Crashes,"Installs the game, but upon running wants to install vcredist and another package via Wine but immediately fails, and won't launch in any form.",Fedora 28 64-bit (Kernel 4.17.14),Mesa 18.1.6,i5-4460 / RX 560,,Default,,,2710primaryKey
 8190,Just cause 2,25 Aug ,Garbage,Won't Start,nothing happen when i launch the game.,debian 9.5 Stretch(kernel 4.18.5),NVIDIA 396.54,Phenom II X6 / GTX 750,,Default,,https://steamdb.info/app/8190/,2711primaryKey
@@ -3338,7 +3338,7 @@ Performance-wise playable framerates with occasional dips",Manjaro (4.18.3-1 Cin
 837610,Mary Skelter: Nightmares,24 Aug ,Silver,Stable,"Crashes to desktop when playing the opening movie. Fixed by renaming the ""MOVIE"" folder . Game runs perfectly, but without a couple of cutscene videos. No huge loss.",Ubuntu Budgie 18.04 64-bit,NVIDIA 396.54,I7 3770K / GTX 980,,Default,FALSE,https://store.steampowered.com/app/837610/Mary_Skelter_Nightmares/,2988primaryKey
 682530,MarZ Rising,22 Aug ,Platinum,Completely Stable,Works fine,Solus linux (4.17.14-86.current),Nvidia 390.77,GTX 650M,Release,Default,FALSE,https://store.steampowered.com/app/682530/,2989primaryKey
 281280,Mashed,26 Aug ,Garbage,Won't Start,Doesn't start,Arch Linux 64-bit (Kernel 4.18.4),NVIDIA 396.54,i5-3570K / GTX 670,,Default,,281280,2990primaryKey
-17460,Mass Effect,21 Aug ,,Crashes,,Antergos,Nvidia ?,4770 / GTX 1070,,Default,FALSE,,2991primaryKey
+17460,Mass Effect,21 Aug ,Garbage,Crashes,,Antergos,Nvidia ?,4770 / GTX 1070,,Default,FALSE,,2991primaryKey
 17460,Mass Effect,22 Aug ,,Unstable,No in-game audio (only in opening videos),Ubuntu 18.04,NVIDIA 396.51,i7 4790k / GTX 1080 Ti,,Default,FALSE,,2992primaryKey
 17460,Mass Effect,22 Aug ,,Unstable,Mediocre performance ~30fps / no sound,Ubuntu 18.04,Mesa 18.3.0-devel,Ryzen 5 1400 / Radeon RX 460,,Default,,,2993primaryKey
 17460,Mass Effect,22 Aug ,,Stable,"Frame rate was stable with all graphics options turned up.
@@ -3365,7 +3365,7 @@ The game seems to run fine.",Debian 9.4 64 bit,NVIDIA 375.82,G4560/GTX 1060 3GB,
 17460,Mass effect,26 Aug ,,Stable,"there is some problems with sound (lags & strange noise) and sometimes game meet little freeze, but it really playable,t",Debian Stretch 9.5 64-bits(kernel 4.18.5),NVIDIA 396.54,Phenom II X6 / GTX 750,,Default,,https://steamdb.info/app/17460/,3002primaryKey
 17460,Mass Effect,28 Aug ,,Completely Stable,"don't forget add the fix for audio: ""https://github.com/ValveSoftware/Proton/issues/177""",debian 9.5 Stretch 64 bit (kernel 4.18.5),NVIDIA 396.54,phenom II X6 / GTX 750,,Default,,https://steamdb.info/app/17460/,3003primaryKey
 17460,Mass effect,28 Aug ,,Stable,NO SOUND IN GAME ,Antergos,NVIDIA 396.54,i7-3770,,Default,,17460,3004primaryKey
-24980,Mass Effect 2,21 Aug ,,Crashes,,Antergos,Nvidia,4770 / GTX 1070,,Default,FALSE,,3005primaryKey
+24980,Mass Effect 2,21 Aug ,Garbage,Crashes,,Antergos,Nvidia,4770 / GTX 1070,,Default,FALSE,,3005primaryKey
 24980,Mass Effect 2,24 Aug ,Gold,Completely Stable,Sound did not work the first time I started it.  I just tried it again and it worked fine.,Linux Mint 19 XFCE,NVIDIA 396.54,i7-6700K / GTX 1080,,Default,,,3006primaryKey
 24980,Mass Effect 2,25 Aug ,Gold,Completely Stable,"No audio on first run, works on the second run",Arch Linux (Kernel 4.18.4),NVIDIA 396.54,i7-8700 / GTX 1080 Ti,,Default,FALSE,https://steamdb.info/app/24980/,3007primaryKey
 24980,Mass Effect 2,25 Aug ,,Stable,"Mouse controls seemed to be mapped to cursor location, ie, you'd hit a point at which you could no longer turn, as if the cursor reached the edge of the screen.
@@ -3428,7 +3428,7 @@ APP_ERROR: Resource ""/directory/autosave/screenshot.jpg"" is not a valid suppor
 235460,METAL GEAR RISING: REVENGEANCE,22 Aug ,Garbage,Won't Start,,Debian Stretch,Nvidia 396.54,i7-4770K / GTX 1080ti,,Default,,,3061primaryKey
 235460,METAL GEAR RISING: REVENGEANCE,22 Aug ,,Unstable,"stable 60 FPS, random crashes",Debian buster/sid,NVIDIA 390.77,i5-2500K,,Default,FALSE,,3062primaryKey
 235460,Metal Gear Rising: Revengeance,27 Aug ,,Completely Stable,None,SteamOS 2.166,Nvidia 396.54,Intel Core i5-4460 / GTX 970,,Default,,235460,3063primaryKey
-311340,METAL GEAR SOLID V: GROUND ZEROES,22 Aug ,,Crashes,,Antergos,NVIDIA 396.51.02,i7 3770 / GTX 1070,,Default,FALSE,,3064primaryKey
+311340,METAL GEAR SOLID V: GROUND ZEROES,22 Aug ,Garbage,Crashes,,Antergos,NVIDIA 396.51.02,i7 3770 / GTX 1070,,Default,FALSE,,3064primaryKey
 311340,METAL GEAR SOLID V: GROUND ZEROES,22 Aug ,,Crashes,Does not even start up,Ubuntu 18.04.1 (Kernel 4.18.4),NVIDIA 390.77,i5-6500 / GTX 960,,Default,FALSE,https://steamdb.info/app/311340/,3065primaryKey
 311340,METAL GEAR SOLID V: GROUND ZEROES,24 Aug ,Garbage,Won't Start,Problems unknown,Linux Mint (Kernel 4.18.4),Mesa 18.3.0-devel,AMD A10-5800K,Latest,Default,FALSE,,3066primaryKey
 311340,Metal Gear Solid V: Ground Zeroes,27 Aug ,Garbage,Won't Start,Application is up for a second and then nothing. ,Arch Linux 64-bit (4.18.5-arch1-1-ARCH),NVIDIA 396.54,i7-6700K / GTX 1070,From day 27.08.2018,Default,,311340,3067primaryKey
@@ -3538,7 +3538,7 @@ Also, Configuration start-up, but it can't recognize any letters (Japanese font 
 389570,Mitos.is: The Game,25 Aug ,Garbage,Won't Start,White screen and no errors..,Ubuntu 18.04.1 LTS,Mesa 18.3.0-devel,Intel i5-7200U / HD Graphics 620 (Kaby Lake GT2),,Default,,389570,3153primaryKey
 263620,Mitsurugi Kamui Hikae,21 Aug ,Platinum,Completely Stable,,Slackware 14.2,Nvidia 396.24,AMD 8350 / GTX 770,,Default,FALSE,,3154primaryKey
 504730,MOBIUS FINAL FANTASY ,26 Aug ,,Unstable,"the game seems to be unable to connect to its main server, even though the download of its files begins, the game crashes because it can not load the news section.",Ubuntu 18.04,NVIDIA 396.51,i3-8100,,use beta and default,,536930,3155primaryKey
-723780,Modern Combat Versus,22 Aug ,,Crashes,,elementary OS 0.4.1 Loki,NVIDIA 396.51,FX-6100 / GTX 1050,,Default,FALSE,,3156primaryKey
+723780,Modern Combat Versus,22 Aug ,Garbage,Crashes,,elementary OS 0.4.1 Loki,NVIDIA 396.51,FX-6100 / GTX 1050,,Default,FALSE,,3156primaryKey
 496310,Momento Temporis: Light from the Deep,26 Aug ,Platinum,Completely Stable,Everything runs perfectly,Ubuntu 18.04,Mesa 18.1.6,i5 6600k / RX470,,3.7-4 beta,,496310,3157primaryKey
 302790,Momodora III,22 Aug ,Platinum,Completely Stable,No issues in five or so minutes of play,Manjaro Stable,NVIDIA 396.51,TR 1900x / NVIDIA GTX 1070,,Default,FALSE,https://steamdb.info/depot/302791/,3158primaryKey
 32460,Monkey Island 2: Special Edition,22 Aug ,Platinum,Completely Stable,,Fedora 28,nVidia 396.51,i7-6700HQ / GTX970m,,Default,FALSE,,3159primaryKey
@@ -3589,7 +3589,7 @@ When you first start even auto-tuning graphics worked fine, which is unusual.",o
 237110,Mortal Kombat Komplete Edition,27 Aug ,,Completely Stable,"Works great, no errors so far (4 hours played in Story Mode)",Manjaro Stable 64-bit Kernel 4.14.65,Mesa 18.1.6,AMD FX 8350 / AMD RX 480,,Default,,237110,3194primaryKey
 237110,Mortal Kombat Komplete Edition,27 Aug ,,Completely Stable,"Notable framerate drop vs. smooth 60fps on Windows, but otherwise seems to run fine from brief test.",Ubuntu MATE 18.04 (Kernel 4.15),NVIDIA 396.54,i5-4460 / GTX 970,,Default,,237110,3195primaryKey
 307780,Mortal Kombat X,22 Aug ,,Crashes,The game starts but does not show image only the sound,Xubuntu 18.04.1,?,i7 7500u / Nvidia 940mx,,Default,FALSE,,3196primaryKey
-307780,Mortal Kombat X,22 Aug ,,Crashes,,Xubuntu 18.04.1,?,Nvidia 940mx,,Default,FALSE,,3197primaryKey
+307780,Mortal Kombat X,22 Aug ,Garbage,Crashes,,Xubuntu 18.04.1,?,Nvidia 940mx,,Default,FALSE,,3197primaryKey
 307780,Mortal Kombat X,22 Aug ,,Stable,It run after the second startup.,Antergos,NVIDIA 396.51.02,i7 3770 / GTX 1070,,Default,FALSE,,3198primaryKey
 307780,Mortal Kombat X,23 Aug ,,Stable,a little bit of lag and sreen tearing,Ubuntu 18.04.1 LTS,NVIDIA 396.51,AMD Ryzen 5 1600 / Nvidia 1050ti,,Default,,,3199primaryKey
 307780,Mortal Kombat X,24 Aug ,,Stable,Minor slow downs when performing special moves.,Arch 64-bit (Kernel 4.18.3),Mesa 18.1.6,Radeon HD 7950,,Default,FALSE,https://store.steampowered.com/agecheck/app/307780/,3200primaryKey
@@ -3629,7 +3629,7 @@ On a fresh save I can get 60fps using GoldenEye graphics settings, along with ev
 516750,My Summer Car,24 Aug ,Platinum,Completely Stable,"Works perfectly.  The car, not so much",Ubuntu 16.04 64-bit (kernel 4.4.0),NVIDIA 396.51,i5-4690K / GTX 660,,Default,,,3232primaryKey
 516750,My Summer Car,27 Aug ,,Completely Stable,"Settings to high, smooth. Keyboard only. ",Ubuntu 18.04 64-bit,Nvidia 396.54,Fx-8350 / GTX 980 ti,18.08.2018 ,Default,,516750,3233primaryKey
 666140,My Time At Portia,26 Aug ,Silver,Stable,"FPS lower than in Windows, othewise very playable",Gentoo Stable 17.0 64-bit (Kernel 4.14.65),NVIDIA 396.54,Intel i7-6700HQ / GTX 1070 Mobile,,Proton 3.7-4 Beta,,666140,3234primaryKey
-63660,Myst: Masterpiece Edition,22 Aug ,,Crashes,,Ubuntu 18.04,NVIDIA 396.51,i7 4790k / GTX 1080 Ti,,Default,FALSE,,3235primaryKey
+63660,Myst: Masterpiece Edition,22 Aug ,Garbage,Crashes,,Ubuntu 18.04,NVIDIA 396.51,i7 4790k / GTX 1080 Ti,,Default,FALSE,,3235primaryKey
 63660,Myst: Masterpiece Edition,25 Aug ,Garbage,Won't Start,"Launches to full-screen, then exits immediately.",Ubuntu 18.04 64-bit (Kernel 4.15),NVIDIA 390.48,i7-8750H / GTX 1050,,Default,,63660,3236primaryKey
 265690,NaissanceE,24 Aug ,Garbage,Won't Start,Not even opening a window,Ubuntu 16.04 LTS 64-bit (Kernel 4.4.0-134-generic),	NVIDIA 396.54,	i7-7700K / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/265690/NaissanceE/,3237primaryKey
 34030,Napoleon: Total War,23 Aug ,,Crashes,"""Error creating process <msiexec /i vcredist.msi>. Reason: File not found"" when attempting to install Microsoft Visual C++ 2005 Redist. Game launches as black screen and hangs ",Kubuntu 18.04,NVIDIA 390.48,i7 5820k / GTX 980,,Default,,,3238primaryKey
@@ -3669,7 +3669,7 @@ On a fresh save I can get 60fps using GoldenEye graphics settings, along with ev
 47870,Need for Speed: Hot Pursuit,28 Aug ,,Stable,"Poor performance, but everything else works normally.",Linux Mint 19 64-bit (Kernel 4.18.5,Nvidia 396.54,4790k / 980ti,,Default,,47870,3272primaryKey
 47870,Need for Speed: Hot Pursuit,28 Aug ,,Completely Stable,"Runs great, everything works fine.",Antergos,NVIDIA 396.54,i7-6800K,,Default,,47870,3273primaryKey
 24870,Need for Speed: SHIFT,22 Aug ,,Stable,Alt+Tab or bring another application to focus will cause the game to lock up.,Ubuntu MATE 18.04.1,NVIDIA 390.48,i7-6770HQ / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/24870/Need_for_Speed_Shift/,3274primaryKey
-17430,Need For Speed: Undercover,22 Aug ,,Crashes,,Ubuntu 16.04,Intel HD 4000,i5 3320,,Default,FALSE,,3275primaryKey
+17430,Need For Speed: Undercover,22 Aug ,Garbage,Crashes,,Ubuntu 16.04,Intel HD 4000,i5 3320,,Default,FALSE,,3275primaryKey
 17430,Need for Speed: Undercover,22 Aug ,,Stable,Can use Xbox 360 Controller but unable to rebind buttons.,Ubuntu MATE 18.04.1,NVIDIA 390.48,GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/17430/Need_for_Speed_Undercover/,3276primaryKey
 17430,Need For Speed: Undercover,24 Aug ,,Stable,"worked omly after 3rd try, but without any changes",Ubuntu Linux 16.04.5 LTS with 4.15 upgrade,Mesa 18.05,i5-3320M / Intel HD 4000,latest,Default,FALSE,,3277primaryKey
 260750,Neighbours from Hell,23 Aug ,Platinum,Completely Stable,Works great,Kubuntu 18.04 64-bit (Kernel 4.15.0-33),Mesa 18.3.0-devel,Ryzen 5 2600 / RX 480,,Default,FALSE,,3278primaryKey
@@ -3720,7 +3720,7 @@ On a fresh save I can get 60fps using GoldenEye graphics settings, along with ev
 527280,Nights of Azure,29 Aug ,Garbage,Won't Start,none,Manjaro stable 64-bit (kernel 4.14.66-1),Nvidia 396.54,i7-4790k / gtx 970,,Default,,527280,3323primaryKey
 471550,Nine Parchments,23 Aug ,,Stable,"Works good, but don't know why is capped on 30FPS. Some problem with fonts too.",Manjaro 17.1.12 64bit (Kernel 4.18.3),NVIDIA 396.51,i7 2600K / GTX760,,Default,FALSE,https://store.steampowered.com/app/471550/,3324primaryKey
 405540,Ninja Senki DX,22 Aug ,,Stable,Seems to be working fine.,Debian Stretch,NVIDIA 384.13,FX 8350 / NVIDIA GTX 660,,Default,,,3325primaryKey
-485510,Nioh: Complete Edition,21 Aug ,,Crashes,,Antergos,Nvidia 396,i7 4770 / GTX 1070,,Default,FALSE,,3326primaryKey
+485510,Nioh: Complete Edition,21 Aug ,Garbage,Crashes,,Antergos,Nvidia 396,i7 4770 / GTX 1070,,Default,FALSE,,3326primaryKey
 482450,Nitroplus Blasterz: Heroines Infinite Duel,24 Aug ,Platinum,Completely Stable,Nope.,Steam OS Brewmaster beta.,Mesa 18.1.5,AMD A8-6410 with R5,Last stable.,Default,FALSE,,3327primaryKey
 482450,Nitroplus Blasterz: Heroines Infinite Duel,24 Aug ,Gold,Completely Stable,"First launch was a white screen with sound. After relaunching, everything works. Complete playthrough tested.",SteamOS,NVIDIA,FX-8350 / GTX 1050 ti,,Default,,,3328primaryKey
 275850,No Man's Sky,22 Aug ,,Stable,"Run pretty well,  40fps/70fps in planets.  137fps in space!",Ubuntu 18.04,NVIDIA ?,i7 7700 / GTX 1080,,Default,FALSE,,3329primaryKey
@@ -3829,7 +3829,7 @@ On a fresh save I can get 60fps using GoldenEye graphics settings, along with ev
 252530,OMSI 2,26 Aug ,,Stable,"Performance similarly bad as in Windows. The game pauses when the main window loses focus, but the Alt menu as well as the spawn bus / teleport / select timetable menus are an own window by themselves. Just click into the main window or hit Alt+Tab to regain control. Steering wheel axes and buttons work, but force feedback does not with Logitech G29",Arch Linux 64-bit (Kernel 4.18.4),NVIDIA 396.54,i7-6700 / GTX 1080 Ti,2.3.004,Default,,252530,3431primaryKey
 252530,OMSI 2,26 Aug ,Platinum,Completely Stable,Works perfectly,Manjaro 64-bit (Kernel 4.18.4-1),Mesa 18.1.6,Ryzen 7 1700/RX 580,,3.7-4 Beta,,252530,3432primaryKey
 18000,"On the Rain-Slick Precipice of Darkness, Episode One",23 Aug ,Platinum,Completely Stable,Works Perfectly,KDE Neon (Ubuntu 18.04),Mesa 18.0.5,i7-7700K,,Default,FALSE,https://steamdb.info/app/18000/,3433primaryKey
-264200,One Finger Death Punch,21 Aug ,,Crashes,,Debian Stretch,Mesa 13.0.6,Ryzen 5 1600 / HD 7950,,Default,FALSE,,3434primaryKey
+264200,One Finger Death Punch,21 Aug ,Garbage,Crashes,,Debian Stretch,Mesa 13.0.6,Ryzen 5 1600 / HD 7950,,Default,FALSE,,3434primaryKey
 264200,One Finger Death Punch,22 Aug ,,Crashes,"Installation seems fine, game won't start. Error messages from steam in the terminal: ""wine: Call from 0x7b43c45c to unimplemented function mscoree.dll.CorIsLatestSvc, aborting""  and "" wine: Unimplemented function mscoree.dll.CorIsLatestSvc called at address 0x760023:0x7b43c45c (thread 0015), starting debugger..."".",Fedora 28,Nvidia 390.48,"Intel i7-4770K, Nvidia GTX 780 Ti",,Default,FALSE,,3435primaryKey
 264200,One Finger Death Punch,24 Aug ,Garbage,Won't Start,Installation of dependencies is fine. CTD when starting,KDE neon LTS User Edition 5.12 (Xenial) (Kernel 4.4.0-134),NVIDIA 396.54,i7-8700K / GTX 1080,,Default,FALSE,https://steamdb.info/app/264200/,3436primaryKey
 264200,One Finger Death Punch ,25 Aug ,Garbage,Won't Start,nothing happens,solus kernel 4.17,nvidia 390.77,i5-6600k + gtx 970,,Default,,264200,3437primaryKey
@@ -3974,7 +3974,7 @@ Game previously ran with PlayOnLinux's Steam default install. ",Arch Linux 64-bi
 621060,PC Building Simulator,22 Aug ,,Crashes,Game tries to start then crashes,Linux Mint 19 (Kernel 4.15.0-32),NVIDIA 396.51,i7-6700HQ/GTX 1060,,Default,,,3572primaryKey
 621060,PC Building Simulator,23 Aug ,,Unplayable,"No text on the main menu. Requires corefonts to be installed in Wine, but no way to do so with Proton.",Solus (Kernel 4.17.14),Mesa 18.1.6,i5-6400 / RX 480,,Default,FALSE,,3573primaryKey
 92500,PC Gamer,24 Aug ,Platinum,Completely Stable,"Sound, videos, options, everything seems to work fine and with no performance loss",Arch Linux 64-bit (Kernel 4.18.4),Mesa 18.3.0-devel (git-e345247092),i5-4690k / RX 580,,Default,FALSE,https://steamdb.info/app/92500/,3574primaryKey
-3480,Peggle Deluxe,21 Aug ,,Crashes,,Arch Linux,?,GTX 1050 ti,,Default,FALSE,,3575primaryKey
+3480,Peggle Deluxe,21 Aug ,Garbage,Crashes,,Arch Linux,?,GTX 1050 ti,,Default,FALSE,,3575primaryKey
 3480,Peggle Deluxe,22 Aug ,Platinum,Completely Stable,"25-30 FPS in full screen 1440p, 60+ FPS in windowed mode",Arch Linux 64 bit,Nvidia 396.51,i5-6600k / GTX  1070,,Default,,,3576primaryKey
 3480,Peggle Deluxe,23 Aug ,,Unstable,"No sound, really doesn't like running full screen.",Ubuntu 16.04 (Kernel 4.15),NVIDIA 396.51,i7-7700HQ,,Default,FALSE,https://steamdb.info/app/3480/,3577primaryKey
 3480,Peggle Deluxe,24 Aug ,,Stable,Full-screen doesn't work properly and there are some minor performance issues. ,Xubuntu 18.04 (Kernel 4.15),NVIDIA 390.48,i3-6100,,Default,FALSE,3480,3578primaryKey
@@ -4307,7 +4307,7 @@ But impossible to connect on offline mode if I never connect a first time.",Arch
 244430,realMyst: Masterpiece Edition,22 Aug ,Platinum,Completely Stable,No noticeable issues,Antergos,Mesa ?,Ryzen 7 1700 / RX 480,,Default,FALSE,,3871primaryKey
 244430,realMyst: Masterpiece Edition,25 Aug ,,Unplayable,"Seems to start at first, but immediately gets stuck on a black screen with the frame rate counter going up into the 900s and above. Had to kill the game to get control back.",Arch Linux 64-bit (Kernel 4.18.4),NVIDIA 396.54,i7-990X / GTX 660Ti,BuildID 2704943,Default,FALSE,https://store.steampowered.com/app/244430/,3872primaryKey
 244430,realMyst: Masterpiece Edition,25 Aug ,,Stable,"Green borders around books and hall-of-mirrors effect in tower window, but nothing game-breaking so far.",Ubuntu 18.04 64-bit (Kernel 4.15),NVIDIA 390.48,i7-8750H / GTX 1050,,Default,,244430,3873primaryKey
-290300,Rebel Galaxy,21 Aug ,,Crashes,,Kubuntu 18.04,NVIDIA 396.51,i5-3470 / GT 1030,,Default,FALSE,,3874primaryKey
+290300,Rebel Galaxy,21 Aug ,Garbage,Crashes,,Kubuntu 18.04,NVIDIA 396.51,i5-3470 / GT 1030,,Default,FALSE,,3874primaryKey
 290300,Rebel Galaxy,23 Aug ,,Crashes,Never starts,Ubuntu 18.04 (Kernel 4.15.0-30),NVIDIA 390.48,Ryzen 7 1700 / GeForce GT 710,,Default,,https://steamdb.info/app/234140/,3875primaryKey
 290300,Rebel Galaxy,24 Aug ,Garbage,Won't Start,it just won't run,Manjaro Unstable 64-bit (Kernel 4.18.4-1),NVIDIA 396.54,i5-6300HQ,,Default,FALSE,290300,3876primaryKey
 290300,Rebel Galaxy,26 Aug ,,Crashes,crashes when main menu loads in Direct3D 11/OpenGL mode. Crashes in Direct3D 9 mode when game starts,Gentoo (Kernel 4.18.5),Mesa 18.2.0-rc4 (LLVM 7.0.0),i7-4771/R9 280X,,Default,,290300,3877primaryKey
@@ -4353,7 +4353,7 @@ Controller works.",Fedora 28,Mesa 18.0.5,M3-7Y30 / Intel HD 615,,Default,FALSE,h
 517710,Redout: Enhanced Edition,25 Aug ,,Stable,"Minor graphical glitches on startup, seem to smooth out afterwards.",Ubuntu 18.04,NVIDIA 396.54,i7 6700k / GTX 1080,,Default,,,3916primaryKey
 517710,Redout: Enhanced Edition,26 Aug ,,Stable,"Game runs great, except for the volcano levels dropping down to single digit framerates when lava and smoke are on screen. ",Linux Mint 19 64-bit (Kernel 4.15),Nvidia 396.54,i7-6700K / GTX 1070 Ti,,Default,,517710,3917primaryKey
 517710,Redout: Enhanced Edition,27 Aug ,,Unplayable,"Games starts and menus run with minimal stutters.  Once in race, frame rate drops to single digits.  Game freezes if high graphical presets selected.",Ubuntu Budgie 18.04.1 64-bit (4.15),NVIDIA 396.54,Ryzen 7 1700 / GTX 1070,,Default,,517710,3918primaryKey
-281860,RefleX,22 Aug ,,Crashes,,Elementary OS 5.0,Mesa 18.3.0-devel padoka,TR 1900x / RX 56,,Default,FALSE,,3919primaryKey
+281860,RefleX,22 Aug ,Garbage,Crashes,,Elementary OS 5.0,Mesa 18.3.0-devel padoka,TR 1900x / RX 56,,Default,FALSE,,3919primaryKey
 328070,Reflex,27 Aug ,,Completely Stable,Excellent performance.,Manjaro Stable 64 Bit,NVIDIA 396.54,i7-5850,Latest Steam V ersion,Latest Beta,,328070,3920primaryKey
 328070,Reflex Arena,22 Aug ,Silver,Completely Stable,"Performance is fine, Possible texture issue on Lava?",Manjaro Stable 64-bit Kernal 4.14.65-1,NVIDIA 396.51,i7-4790K GTX1080,Latest Steam release,Default,FALSE,https://store.steampowered.com/app/328070/,3921primaryKey
 328070,Reflex Arena,22 Aug ,,Crashes,Crashes on startup; using steam-native runtime (Steam uses updated libraries instead of Steam's own),Manjaro Stable 64-bit Kernel 4.14.65-1,NVIDIA 396.51,i7-6700HQ / GTX 1060 Mobile 6GB,,Default,,https://steamdb.info/app/328070/,3922primaryKey
@@ -4427,7 +4427,7 @@ Left game running for 5mins. Nothing else beyond this currently.",Arch Linux 4.1
 443860,Riptide GP: Renegade,22 Aug ,Platinum,Completely Stable,,OpenSUSE Leap 15.0,?,NVidia 1080 ti,,Default,FALSE,,3987primaryKey
 257790,Riptide GP2,22 Aug ,Platinum,Completely Stable,,openSuse Leap 15.0,?,NVidia 1080 ti,,Default,FALSE,,3988primaryKey
 244050,Rise of Flight United,25 Aug ,Platinum,Completely Stable,"Appears completely fine, Xbox Controller, keyboard, mouse works perfectly. Not tested with proper flight controller or VR etc.Tested Career and Quick Mission. Base (free) Aircraft only, no DLC.",Ubuntu 18.04 (Kernel 4.15.0-32-generic),Nvidia 390.48,i5-4210H / Nvidia GTX 960M,,Default,,244050,3989primaryKey
-287450,Rise of Nations: Extended Edition,22 Aug ,,Crashes,,Arch Linux,Nvidia 396.51,i5-6500 / GTX960,,Default,FALSE,https://store.steampowered.com/app/287450,3990primaryKey
+287450,Rise of Nations: Extended Edition,22 Aug ,Garbage,Crashes,,Arch Linux,Nvidia 396.51,i5-6500 / GTX960,,Default,FALSE,https://store.steampowered.com/app/287450,3990primaryKey
 287450,Rise of Nations: Extended Edition,22 Aug ,,Crashes,Starts and immediately exits.,Ubuntu 18.04 (Kernel 4.17.2),Mesa 18.0.5,i7-6700k / RX 480,,Default,FALSE,https://steamdb.info/app/287450/,3991primaryKey
 287450,Rise of Nations: Extended Edition,23 Aug ,,Crashes,Doesn't start. Crashes without error.,Debian 9,Nvidia 384,i5 / GTX 750 Ti,,Default,,,3992primaryKey
 287450,Rise of Nations: Extended Edition,23 Aug ,Garbage,Won't Start,Nothing happens,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7-4790k / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/287450/Rise_of_Nations_Extended_Edition/,3993primaryKey
@@ -4473,7 +4473,7 @@ Left game running for 5mins. Nothing else beyond this currently.",Arch Linux 4.1
 252950,Rocket League,27 Aug ,,Completely Stable,Anti-aliasing configurations seems to be ignored. Some small stutters on the menus. The matches run smoothly.,Ubuntu 18.04.1 LTS (Kernel 4.15.0-33-generic),NVIDIA 390.48,i5-7500,,Default,,252950,4033primaryKey
 3440,Rocket Mania! Deluxe,26 Aug ,Platinum,Completely Stable,Works perfectly,Manjaro 64-bit (Kernel 4.18.4-1),Mesa 18.1.6,Ryzen 7 1700/RX 580,,3.7-4 Beta,,3440,4034primaryKey
 470210,Rocketbirds 2 Evolution,22 Aug ,Platinum,Completely Stable,,Antergos,AMDGPU/RadV ?,AMD A10 8700P,,Default,FALSE,,4035primaryKey
-221680,Rocksmith® 2014 Edition - Remastered,22 Aug ,,Crashes,,"Arch, Nvidia 396.51",?,"Intel© Core™ i7-4790K , GTX 1070",,Default,FALSE,,4036primaryKey
+221680,Rocksmith® 2014 Edition - Remastered,22 Aug ,Garbage,Crashes,,"Arch, Nvidia 396.51",?,"Intel© Core™ i7-4790K , GTX 1070",,Default,FALSE,,4036primaryKey
 221680,Rocksmith® 2014 Edition - Remastered,23 Aug ,,Unplayable,"Fails to launch. Just a popup with ""Sorry, something went wrong, for solutions visit: ...""",Ubuntu 18.04,NVIDIA 396.54,Ryzen 5 1600,,Default,FALSE,,4037primaryKey
 221680,Rocksmith® 2014 Edition - Remastered,24 Aug ,Garbage,Won't Start,"Doesn't start at all. Just a popup with ""Sorry, something went wrong, for solutions visit: ..",Ubuntu 18.04.1,Mesa 18.3.0,i7-3820/Radeon RX 580,,Default,,,4038primaryKey
 314230,Rodina,22 Aug ,,Crashes,Getting multiple errors about unable to load certain textures.,Kubuntu 18.04.1 / Linux 4.18.3,Mesa 18.3.0-devel,Ryzen 7 2700X / AMD R9 Fury,,Default,FALSE,,4039primaryKey
@@ -4540,7 +4540,7 @@ Left game running for 5mins. Nothing else beyond this currently.",Arch Linux 4.1
 4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,27 Aug ,,Completely Stable,"Game starts to a stuck, black screen but tabbing out and back in makes it work perfectly.",Manjaro Stable 64-bit (Kernel 4.14.65-1),NVIDIA 390.77,i5-2500K / GTX 560 Ti,,3.7-4 Beta,,4500,4100primaryKey
 4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,28 Aug ,Gold,Stable,"Disable NumLock/CapsLock if you have trouble remapping keys. Occasional graphical glitches, but they may be present on Windows, too.",Arch 64-bit (kernel 4.18.5),NVIDIA 396.54,GTX 750 Ti,,Default,,4500,4101primaryKey
 4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,28 Aug ,,Completely Stable,NA,Fedora 28,AMD Vega 64,AMD Ryzen 7 2700X,,Default,,4500,4102primaryKey
-225640,Sacred 2 Gold,21 Aug ,,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,4103primaryKey
+225640,Sacred 2 Gold,21 Aug ,Garbage,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,4103primaryKey
 225640,Sacred 2 Gold,22 Aug ,,Crashes,just doesn't start,Arch Linux,NVIDIA 396.51,i7 6700K / GTX 1070,,Default,FALSE,,4104primaryKey
 225640,Sacred 2 Gold,23 Aug ,,Crashes,Does not launch,Kubuntu 18.04 64-bit (4.15.0-32),NVIDIA 396.51,AMD FX8350 / NVIDIA GTX660,,Default,FALSE,https://store.steampowered.com/app/225640/Sacred_2_Gold/,4105primaryKey
 247950,Sacred 3,23 Aug ,Platinum,Completely Stable,Tested 15 minutes of gameplay with no apparent issues (aside from the game being pants).,Kubuntu 18.04 64-bit (4.15.0-32),NVIDIA 396.51,AMD FX8350 / NVIDIA GTX660,,Default,FALSE,https://store.steampowered.com/app/247950/Sacred_3/,4106primaryKey
@@ -4690,7 +4690,7 @@ Change the resolution not works (game crash).",Linux Mint 19 64-bit ( 4.15.0-33-
 241260,Sherlock Holmes: Crimes and Punishments,29 Aug ,,Completely Stable,"Plays, sounds and high graphic works",Linux Mint 19 64-bit (Kernel 4.15),NVIDIA 396.54,Ryzen 7 1700 / Geforce 1060,,37.4-Beta,,241260,4221primaryKey
 11040,Sherlock Holmes: Nemesis,23 Aug ,Garbage,Won't Start,Nothing happens,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/11040/Sherlock_Holmes__Nemesis/,4222primaryKey
 11140,Sherlock Holmes: The Awakened - Remastered,23 Aug ,Garbage,Won't Start,Nothing happens,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/11140/Sherlock_Holmes_The_Awakened__Remastered_Edition/,4223primaryKey
-350640,Sherlock Holmes: The Devil's Daughter,21 Aug ,,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,4224primaryKey
+350640,Sherlock Holmes: The Devil's Daughter,21 Aug ,Garbage,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,4224primaryKey
 11130,Sherlock Holmes: The Mystery of the Mummy,23 Aug ,Platinum,Completely Stable,No noticeable issues,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/11130/Sherlock_Holmes_The_Mystery_of_the_Mummy/,4225primaryKey
 11180,Sherlock Holmes: The Mystery of the Persian Carpet,23 Aug ,Platinum,Completely Stable,No noticeable issues,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/11180/Sherlock_Holmes_The_Mystery_of_the_Persian_Carpet/,4226primaryKey
 11150,Sherlock Holmes: The Secret of the Silver Earring,23 Aug ,Platinum,Completely Stable,No noticeable issues,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/11150/Sherlock_Holmes_The_Silver_Earring/,4227primaryKey
@@ -4829,7 +4829,7 @@ Mods works fine, unless they use an executable to install themselves. In that ca
 3700,Sniper Elite,23 Aug ,Platinum,Completely Stable,No noticeable issues,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/3700/Sniper_Elite/,4335primaryKey
 238090,Sniper Elite 3,25 Aug ,,Crashes,Starts launcher but shows error that it cant access data ,Ubuntu 18.04 LTS ,NVIDIA 396.51,i5-7400 / GTX1060,,3.7-4Beta ,,https://steamdb.info/app/238090/,4336primaryKey
 312660,Sniper Elite 4,24 Aug ,Garbage,Won't Start,Config screen requires some html css formatting. DX12 is not available and game does not start. ,Manjaro Stable 64-bit (Kernel 4.14.65),NVIDIA 396.51,i7-3820 / GTX 1050ti,,Default,FALSE,312660,4337primaryKey
-63380,Sniper Elite v2,21 Aug ,,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,4338primaryKey
+63380,Sniper Elite v2,21 Aug ,Garbage,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,4338primaryKey
 63380,Sniper Elite V2,23 Aug ,,Crashes,"game not run, error: DX11 failed to init..This game req. at leat DX10-level gc adn version of Windows whith support dx11 (Windows XP not supported)",Mint Tara,NVIDIA 390.7,amd 245/nv 550 ti,,Default,,,4339primaryKey
 63380,Sniper Elite v2,24 Aug ,Garbage,Won't Start,"Launcher works, game disappeared after",Arch (kernel 4.18.4),mesa 18.3,4770k / vega 56,,Default,,,4340primaryKey
 63380,Sniper Elite V2,27 Aug ,Garbage,Won't Start,"Launcher is showing up, but after pressing ""play"" - nothing happens",Arch Linux 64-bit (4.18.5-arch1-1-ARCH),NVIDIA 396.54,i7-6700K / GTX 1070,,Default,,63380,4341primaryKey
@@ -4887,7 +4887,7 @@ Credit to u/PotatoSebs. Original video: https://www.youtube.com/watch?time_conti
 34190,Sonic and SEGA All Stars Racing,24 Aug ,Garbage,Won't Start,It fails to install .NET framework,Antergos,vulkan-radeon,"i5-8400, RX 480",,Default,FALSE,https://store.steampowered.com/app/34190/Sonic__SEGA_AllStars_Racing/,4381primaryKey
 34190,Sonic and SEGA All Stars Racing,25 Aug ,,Stable,Very Slow,Ubuntu Mate 18.0.4.1 LTS,NVIIDIA 390.48,Ryzen 5 1600 / Geforce GTX 980,,Default,,34190,4382primaryKey
 34190,Sonic and SEGA All Stars Racing,28 Aug ,,Stable,"Everything runs great, except for the config, Need to manually edit the configuration if you want a proper resolution, after that i have not encountered a single issue",Antergos,NVIDIA 396.54,i7-6800K / GTX 1080,,Default,,34190,4383primaryKey
-200940,Sonic CD,22 Aug ,,Crashes,,Arch Linux,Nvidia 396.51,Nvidia Geforce GT 730,,Default,FALSE,,4384primaryKey
+200940,Sonic CD,22 Aug ,Garbage,Crashes,,Arch Linux,Nvidia 396.51,Nvidia Geforce GT 730,,Default,FALSE,,4384primaryKey
 200940,Sonic CD,24 Aug ,Garbage,Won't Start,Will not start at all regardless of Proton config options.,Ubuntu 18.04 (Kernel 4.15),Mesa 18.3.0-devel,FX-6300 / RX 560,,Default,,https://steamdb.info/app/200940/,4385primaryKey
 200940,Sonic CD,24 Aug ,Garbage,Won't Start,does not start,SteamOS,NVIDIA,FX-8350 / GTX 1050 ti,,Default,FALSE,,4386primaryKey
 200940,Sonic CD,24 Aug ,Garbage,Won't Start,The game does not start at all. No window.,Arch Linux,NVIDIA 396.54,XEON E3 1230v5 / GTX 1060 6GB,,Default,FALSE,https://store.steampowered.com/app/200940/Sonic_CD/,4387primaryKey
@@ -5110,7 +5110,7 @@ The Frame Buffer Picture bug only appears with the newest mesa driver, with the 
 
 To fix the mouse being off-centre: go to swkotor.ini and change EnableHardwareMouse to '0' under [Graphics Options]. However, disabling the frame buffer will make it off-centre again (though not as severely as before).",Xubuntu 18.04 64-bit,3.0 Mesa 18.0.5,AMD Ryzen 2500U / iGPU Vega 8,,Default,,32370,4559primaryKey
 32500,STAR WARS™: The Force Unleashed™ II,24 Aug ,,Unplayable,"Mouse, keyboard and controller inputs are unresponsive during gameplay. Mouse and Keyboard are usable for menu navigation.",Linux Mint 19 (Kernel 4.18.5),Mesa 18.3.0-devel,AMD A10-5800K / Radeon RX 560,Latest,Default,FALSE,,4560primaryKey
-32430,STAR WARS™: The Force Unleashed™ Ultimate Sith Edition,22 Aug ,,Crashes,,Debian Sid,nvidia-driver 390.77, i5-3570K / GeForce GTX 950,,Default,FALSE,,4561primaryKey
+32430,STAR WARS™: The Force Unleashed™ Ultimate Sith Edition,22 Aug ,Garbage,Crashes,,Debian Sid,nvidia-driver 390.77, i5-3570K / GeForce GTX 950,,Default,FALSE,,4561primaryKey
 32430,STAR WARS™: The Force Unleashed™ Ultimate Sith Edition,25 Aug ,Garbage,Won't Start,Might have something to do with .NET framework,Linux Mint 19 (Kernel 4.18.5),Mesa 18.3.0-devel,AMD A10-5800K,Latest,Default,FALSE,,4562primaryKey
 355250,STAR WARS™: TIE Fighter Special Edition,25 Aug ,Platinum,Completely Stable,No noticable problems,Fedora 29,AMDGPU/Mesa 18.2.0~rc3,AMD Bonaire GPU,,Default,FALSE,,4563primaryKey
 46270,Star Wolves,24 Aug ,Platinum,Completely Stable,The mouse cursor movement is a little awkward but I think its the game not the proton,Manjaro Stable 64-bit (Kernel 4.17.17),Mesa 18.1.6,Phenom II x4 965 / R9 270X,,Default,FALSE,https://store.steampowered.com/app/46270/,4564primaryKey
@@ -5352,7 +5352,7 @@ Performance seems to match that in Windows 8.1 which is able to use SLI 650M.",o
 46510,Syberia II,28 Aug ,,Completely Stable,Black bars left and right because of screen size,Arch Linux Stable 64-bit (Kernel 4.18.4),NVIDIA 396.51,E3-1230 v2 / GTX 660,981047,Default,,46510,4757primaryKey
 362860,Sylvio,24 Aug ,Gold,Completely Stable,"Works well, but requires Steam Launch option ""PROTON_NO_D3D11=1 %command%""",Elementary OS 5.0 b1 (Kernel 4.15.0),Mesa 18.3.0-devel padoka,TR 1900X / RX 56 Nano,,Default,,,4758primaryKey
 686500,Sylvio 2,24 Aug ,,Unplayable,"Requires launch option ""PROTON_NO_D3D11=1 %command%"" to run. But the menu/option screen is bugged, can't select to start the game. The menu screen is very buggy on windows too though.",Elementary OS 5.0 b1 (Kernel 4.15.0),Mesa 18.3.0-devel padoka,TR 1900X / RX 56 Nano,,Default,,,4759primaryKey
-482400,System Shock,22 Aug ,,Crashes,,Debian Sid,nvidia-driver 390.77, i5-3570K / GeForce GTX 950,,Default,FALSE,,4760primaryKey
+482400,System Shock,22 Aug ,Garbage,Crashes,,Debian Sid,nvidia-driver 390.77, i5-3570K / GeForce GTX 950,,Default,FALSE,,4760primaryKey
 410710,System Shock: Enhanced Edition,23 Aug ,,Crashes,"Proton try to install a redistribnutable, then the game close itself and crash",Ubuntu 18.04.1 (Kernel 4.15.0-32),Mesa 18.0.5,Intel i5 6400,,Default,FALSE,https://steamdb.info/app/410710/,4761primaryKey
 410710,System Shock: Enhanced Edition,24 Aug ,Garbage,Won't Start,"Internal error of the game because is a source port that will be released in future in stable branch: ""Error ..\..\source\rhi\d3d11\rhiContextD3D11.cpp Line:75""",Ubuntu 18.04.1 (Kernel 4.15.0),Mesa 18.0.5,i5 6400 /AMD RX 560,Private Beta with source port,Default,FALSE,https://steamdb.info/app/410710/,4762primaryKey
 410710,System Shock: Enhanced Edition,27 Aug ,Platinum,Completely Stable,"I've only played the first few rooms but everything worked fine in the backer beta version (Source Port), the normal version however was an unresponsive black screen.",Ubuntu 18.04.1 LTS,NVIDIA 396.51,i5-6200U / GeForce 940M,System Shock: Enhanced Edition 1.1.0 (Backer Beta),Default,,410710,4763primaryKey
@@ -5601,7 +5601,7 @@ Framerate is however excellent.",Gentoo 64-Bit (Kernel 4.18.3),Mesa 18.2.0_rc4,i
 318600,The Flame in the Flood,29 Aug ,,Completely Stable,No errors.,Ubuntu 18.04.1 LTS,Mesa 18.3.0-devel,Ryzen 5 1400 / RX 580,,3.7-4 Beta,,318600,4993primaryKey
 242760,The Forest,22 Aug ,,Stable,Crasheson exit.,Ubuntu 18.10 LTS,Nvidia 396.51 Mesa 18,i7-4790 / GTX 1050ti,,Default,FALSE,https://store.steampowered.com/agecheck/app/242760/,4994primaryKey
 242760,The Forest,22 Aug ,,Unplayable,Mouse moves to bottom  automatically all the time,"Arch, Navidia 396.51",,"Intel© Core™ i7-4790K , Nvidia GTX 1070",,Default,FALSE,,4995primaryKey
-242760,The Forest,22 Aug ,,Unplayable,,Ubuntu 18.10 LTS,Nvidia 396,i7-4790 / GTX 1050ti,,Default,FALSE,,4996primaryKey
+242760,The Forest,22 Aug ,Garbage,Unplayable,,Ubuntu 18.10 LTS,Nvidia 396,i7-4790 / GTX 1050ti,,Default,FALSE,,4996primaryKey
 242760,The Forest,22 Aug ,,Unstable,Camera constantly moves down when using KB/mouse. Controller controls/camera works fine. Multiplayer doesn't work. Crash on exit. ,Solus,NVIDIA 390.77 / Mesa 18.1.6,FX-6300 / NVIDIA GTX 960 4GB,1.09,Default,,,4997primaryKey
 242760,The Forest,22 Aug ,Silver,Completely Stable,It crashed when I tried to exit the game,Ubuntu 18.04.1,NVIDIA 396.51,i5-3570 / GTX 1070,,Default,,https://store.steampowered.com/agecheck/app/242760/,4998primaryKey
 242760,The Forest,23 Aug ,,Unplayable,"The game itself is working, but the mouse isn't moving normal",Ubuntu 18.04.1 64-bit	,NVIDIA 396.51,Intel i5-7600,,Default,,,4999primaryKey
@@ -5657,7 +5657,7 @@ Apart from those issues, the game is pretty stable",Solus (Kernel 4.17.17),NVIDI
 222940,THE KING OF FIGHTERS XIII STEAM EDITION,25 Aug ,Platinum,Completely Stable,"Worked without any problems, but did not try online play.",Elementary OS 5.0 b1 (Kernel 4.15.0),Mesa 18.3.0-devel padoka,TR 1900X / RX 56 Nano,,3.7-4 Beta,,222940,5038primaryKey
 571260,The King of Fighters XIV STEAM EDITION,22 Aug ,,Crashes,Start and a few seconds later the game crashes / Runs flawless on Linux Mint 18.3 Nvidia 396,Ubuntu 18.04,NVIDIA 396,i7 7700 / GTX 1080,,Default,FALSE,,5039primaryKey
 571260,THE KING OF FIGHTERS XIV STEAM EDITION,23 Aug ,Platinum,Completely Stable,"Works as native, no issues perceibed",Linux Mint 19 64-bit (Kernel 4.14),NVIDIA 396.51,GTX960,,Default,,https://store.steampowered.com/app/571260/THE_KING_OF_FIGHTERS_XIV_STEAM_EDITION/,5040primaryKey
-450390,The Lab,21 Aug ,,Crashes,,Arch Linux,,i7-7700k/GTX 1080 ti,,Default,FALSE,,5041primaryKey
+450390,The Lab,21 Aug ,Garbage,Crashes,,Arch Linux,,i7-7700k/GTX 1080 ti,,Default,FALSE,,5041primaryKey
 450390,The Lab,25 Aug ,Garbage,Won't Start,"Starts till first ""credits-room"" and then black screen and loading forever",Arch (Kernel 4.18.4),Nvidia 39.6.54,i7-4790K / GTX 1070,,Default,,,5042primaryKey
 450390,The Lab,25 Aug ,,Crashes,HTC Vive. Horrendous performance in splash area; doesn't load; crashes steam,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,3.7-beta,,450390,5043primaryKey
 568930,The Land of Pain,26 Aug ,Gold,Completely Stable,"Required Steam launch option ""PROTON_USE_WINED3D11=1 %command%"" to run. ",Elementary OS 5.0 b1 (Kernel 4.15.0),Mesa 18.3.0-devel padoka,TR 1900X / RX 56 Nano,,3.7-4 Beta,,568930,5044primaryKey
@@ -5833,7 +5833,7 @@ Once crashed while changing graphic preset.",Ubuntu 18.04.1 LTS 64-bit (Kernel 4
 250320,The Wolf Among Us,25 Aug ,Platinum,Completely Stable,no errors,Opensuse Leap 15.0,Mesa 18.2.0 rc4,Ryzen 5 1600/Rx 460,,Default,,https://store.steampowered.com/app/250320/The_Wolf_Among_Us/,5201primaryKey
 15500,The Wonderful End of the World,24 Aug ,Platinum,Completely Stable,No obvious issues,Ubuntu 18.04 64-bit (Kernel 4.15.0-33-generic),Mesa 18.0.5,AMD A8-7410 APU with AMD Radeon R5 Graphics,,Default,,https://store.steampowered.com/app/15500/,5202primaryKey
 15500,The Wonderful End of the World,27 Aug ,,Completely Stable,Everything works,Linux Mint 18.3 64-bit (Kernel 4.15),NVIDIA 384.130,Core2 Duo E8200 / GeForce GTX 750 Ti,,Default,,15500,5203primaryKey
-518790,theHunter™: Call of the Wild,22 Aug ,,Crashes,,"arch, Nvidia 396.51",,"Intel© Core™ i7-4790K , Nvidia GTX 1070",,Default,FALSE,,5204primaryKey
+518790,theHunter™: Call of the Wild,22 Aug ,Garbage,Crashes,,"arch, Nvidia 396.51",,"Intel© Core™ i7-4790K , Nvidia GTX 1070",,Default,FALSE,,5204primaryKey
 518790,theHunter™: Call of the Wild,26 Aug ,,Crashes,Reported working with dxvk-0.64 and Wine Staging 3.14 ( https://steamcommunity.com/app/518790/discussions/0/3277925755442381040/ ),Ubuntu 18.04.1 LTS,NVIDIA 396.54,i7-3770 / GTX 750 Ti,,3.7-4 Beta,,518790,5205primaryKey
 574980,Them's Fightin' Herds,22 Aug ,,Unstable,"Runs, but quite slow.",Ubuntu 18.04.1,Mesa 18.1.5 DRI,Intel Atom x7-Z8750 / Intel HD Graphics 405,,Default,FALSE,,5206primaryKey
 574980,Them's Fightin' Herds,22 Aug ,Platinum,Completely Stable,"This uses the Z-Engine for graphics, like Skullgirls.",Ubuntu 18.04,nVidia 396.51,i7-8700K / GTX 980,,Default,FALSE,,5207primaryKey
@@ -6103,7 +6103,7 @@ find .local/share/Steam/steamapps/common/RailWorks/ -name ""*.ap"" -execdir unzi
 551720,Unearthed Inc: The Lost Temple,25 Aug ,,Unplayable,HTC Vive. Missing textures/models,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,3.7-beta,,551720,5441primaryKey
 345580,Universal Combat CE,27 Aug ,,Completely Stable,Needed to run in a window initially (-w launch argument),Fedora 28 64-bit (Kernel  4.17.17),Mesa 18.0.5,i5-4300U / iGPU HD 4400,3.00.19,Default,,345580,5442primaryKey
 10430,Universe at War: Earth Assault,26 Aug ,Garbage,Won't Start,"Crashes on startup: ""Abnormal game exit detected""",Manjaro 64-bit (Kernel 4.18.4-1),Mesa 18.1.6,Ryzen 7 1700/RX 580,,3.7-4 Beta,,10430,5443primaryKey
-72200,Universe Sandbox,21 Aug ,,Crashes,,Arch Linux,,GTX 1050 ti,,Default,FALSE,,5444primaryKey
+72200,Universe Sandbox,21 Aug ,Garbage,Crashes,,Arch Linux,,GTX 1050 ti,,Default,FALSE,,5444primaryKey
 72200,Universe Sandbox,23 Aug ,,Crashes,Never starts,Ubuntu 18.04 (Kernel 4.15.0-30),NVIDIA 390.48,Ryzen 7 1700 / GeForce GT 710,,Default,FALSE,https://steamdb.info/app/72200/,5445primaryKey
 72200,Universe Sandbox,25 Aug ,Garbage,Won't Start,Doesn't start.,Arch Linux 64-bit (Kernel 4.18.4),Mesa 18.1.7,Xeon X5675 / AMD Radeon RX 480,,Default,,72200,5446primaryKey
 72200,Universe Sandbox,26 Aug ,Garbage,Won't Start,Crashes immediately when launched.,Xubuntu 18.04.1,NVIDIA 390.48,AMD Ryzen 5 2600X / GTX 1070,,Default,,https://store.steampowered.com/app/72200/Universe_Sandbox/,5447primaryKey
@@ -6186,7 +6186,7 @@ Can randomly crash in level select, but this bug is present in Windows as well."
 108500,Vessel,22 Aug ,Platinum,Completely Stable,"No issues, worked OOTB with controller support.",Kubuntu 18.04 64-bit (4.15.0-32),NVIDIA 396.51,AMD FX8350 / NVIDIA GTX660,,Default,TRUE,https://store.steampowered.com/app/108500/Vessel/,5514primaryKey
 300220,Victim of Xen,25 Aug ,,Unplayable,"Starts up fine, but once you gain control of the player character, the game becomes unplayably laggy.",Ubuntu 17.10 (64-bit),NVIDIA 340.104,AMD Athlon X2 5000+ / GeForce 8500 GT,,Default,FALSE,300220,5515primaryKey
 42960,Victoria 2,25 Aug ,,Unplayable,"To launch it requires you to switch filenames for v2game.exe and victoria2.exe. Once launched, the menu will not continue past ""Loading Graphics"".",Solus 64-bit (Kernel 4.17),NVIDIA 390.77,i5-7600k / GTX 1060,,Default,,42960,5516primaryKey
-42960,Victoria II,21 Aug ,,Crashes,,Kubuntu 18.04,NVIDIA 396.51,i5-3470 / GT 1030,,Default,FALSE,,5517primaryKey
+42960,Victoria II,21 Aug ,Garbage,Crashes,,Kubuntu 18.04,NVIDIA 396.51,i5-3470 / GT 1030,,Default,FALSE,,5517primaryKey
 42960,Victoria II,25 Aug ,,Stable,To run you have to bypass paradox launcher - switch names v2game.exe  and victoria2.exe . Some audio stuttering on startup.,Ubuntu 18.04.01 LTS 64bit,NVIDIA 396.54,i7-3770 / GTX 750TI,,3.7-4 beta,,42960,5518primaryKey
 42960,Victoria II,25 Aug ,,Stable,Trick with changing name of launcher and game works. Minor issues with alt-tabing. Otherwise runs perfectly.,Solus 64-bit (Kernel 4.17.17),NVIDIA 390.77,i7-4770K / GTX 1080,,3.7-4 Beta,,,5519primaryKey
 42960,Victoria II,26 Aug ,,Crashes,"Changing file names (v2game.exe and victoria2.exe) makes the game start and play intro video, but shortly after it shuts down in loading screen.",Arch Linux 64bit (Kernel 4.18.4-arch1-1-ARCH),Mesa 18.1.7,it-6700k / Vega 64,,3.7-4 beta,,42960,5520primaryKey
@@ -6196,7 +6196,7 @@ I have not yet been able to get the in-game music to work. This is the only issu
 42960,Victoria II,28 Aug ,Garbage,Won't Start,"Possibly requires 32-bit installation of WINE/Proton, has dependencies that may be required to run properly like .NET framework and such",Ubuntu 18.04 64-bit (Kernel 4.15.0-33-generic),NVIDIA 390.77,Intel Core i5-4460,3.04,Proton Beta 3.7-4,,42960,5522primaryKey
 42960,Victoria II,28 Aug ,,Completely Stable,Only works if you rename V2game.exe to victoria2.exe.,Debian 9 64bits(Kernel 4.9.0-8),Mesa 13.0.6,Intel core i5-4440,,Default,,42960,5523primaryKey
 42980,Victoria: Revolutions,23 Aug ,,Stable,"Does run but as far as resoultion settings go, there are none that I know of.",Debian GNU/Linux 9.5 (stretch) x86_64,Intel Integrated Graphics ,Intel i5-3330 (4) @ 3.2GHz,,Default,FALSE,,5524primaryKey
-211160,Viking: Battle for Asgard,21 Aug ,,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,5525primaryKey
+211160,Viking: Battle for Asgard,21 Aug ,Garbage,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,5525primaryKey
 374030,Virginia,24 Aug ,Platinum,Completely Stable,"Played the introduction, no problems.",Solus (Kernel 4.17.14),NVIDIA 390.77,i5-6600K / GTX 970,,Default,,374030,5526primaryKey
 71390,Virtua Tennis 4,22 Aug ,Garbage,Won't Start,Games for Windows launcher doesn't work,Ubuntu 18.04,Nvidia 396,Nvidia 750Ti,,Default,FALSE,,5527primaryKey
 336150,Virtual Pool 4,25 Aug ,Platinum,Completely Stable,"Starts in windowed mode, but fullscreen works flawlessly",Ubuntu 18.04,396.54,i5-7600K / 1080ti,latest,Default,,336150,5528primaryKey
@@ -6271,7 +6271,7 @@ I have not yet been able to get the in-game music to work. This is the only issu
 312780,Way of the Samurai 4,22 Aug ,,Crashes,Does nothing at all,Antergos 64-bit (kernel 4.17),NVIDIA 396.51-5,Ryzen 5 1600 / GTX 1060 3GB,,Default,,,5597primaryKey
 320240,We Happy Few,22 Aug ,Platinum,Completely Stable,No noticeable issue,Ubuntu 18.04,Mesa 18.3.0-devel (padoka),i5-6600K / RX 480,,Default,PLANNED,https://steamdb.info/app/320240/,5598primaryKey
 320240,We Happy Few,28 Aug ,,Stable,"For better performance, used 'env WINEPREFIX=""/home/$USER/.steam/steamapps/compatdata/320240/pfx"" /tmp/proton_run winecfg' to configure the Wine prefix to use Windows 10 instead of Windows 7.",Ubuntu 18.04.1 64-bit (Kernel 4.15.0-33),NVIDIA 396.54,Ryzen 7 1700X,,Default,,320240,5599primaryKey
-435300,We Know the Devil,22 Aug ,,Crashes,,Arch Linux,NVIDIA 396.51,i7-4790K / GTX 750 Ti,,Default,FALSE,,5600primaryKey
+435300,We Know the Devil,22 Aug ,Garbage,Crashes,,Arch Linux,NVIDIA 396.51,i7-4790K / GTX 750 Ti,,Default,FALSE,,5600primaryKey
 435300,We Know the Devil,25 Aug ,Garbage,Won't Start,"Briefly opens a black window for a second, which closes automatically.",Manjaro Stable 64-bit (Kernel 4.14.65-1),NVIDIA 396.51,i3-2100 / GeForce GTX 750 Ti,,Default,,435300,5601primaryKey
 377360,Western Press,23 Aug ,Platinum,Completely Stable,flawless,Ubuntu 18.04.1,NVIDIA 396.54,i5-6600k / GTX 980 Ti,,Default,,377360,5602primaryKey
 501300,What Remains of Edith Finch,22 Aug ,Platinum,Completely Stable,Equal performance with Windows,Manjaro Testing 64-bit (Kernel 4.18.3),NVIDIA 396.54,i5-4590 / GTX 970,,Default,FALSE,https://steamdb.info/app/501300/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamDB%20Extension,5603primaryKey
@@ -6435,7 +6435,7 @@ Game didn't crash or have any other graphical glitches/audio glitches. So the ga
 VRAM may be insufficient.
 renderer.cpp(661)",Mint 18.3 (14.5),AMDGPU-pro 17.5,RX480,,Default,,,5754primaryKey
 207320,Ys: The Oath in Felghana,23 Aug ,,Stable,virtual desktop used - csmt off - cinematics dont work,Xubuntu 18.04 x64,Nvidia 396.51.02,Core i3 8350K Tri-Core 5.0ghz,,Default,,,5755primaryKey
-601510,Yu-Gi-Oh! Duel Links,22 Aug ,,Crashes,,Xubuntu 18.04.1,,Nvidia 940mx,,Default,FALSE,,5756primaryKey
+601510,Yu-Gi-Oh! Duel Links,22 Aug ,Garbage,Crashes,,Xubuntu 18.04.1,,Nvidia 940mx,,Default,FALSE,,5756primaryKey
 601510,Yu-Gi-Oh! Duel Links,22 Aug ,Garbage,Won't Start,"click ""start game"", Steam reports it's running, nothing happens. Right click to start again, get pop-up that says ""an errror occurred while updating (app running)"".",Fedora 28,Intel Skylake GT2 ?,Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz,,Default,FALSE,,5757primaryKey
 480650,Yu-Gi-Oh! Legacy of the Duelist,23 Aug ,,Crashes,"Crashes to desktop before or immediately after the ""Konami"" screen.",Arch (4.18.3),Nvidia 396.51,i5-6600k / GTX 970,,Default,,,5758primaryKey
 480650,Yu-Gi-Oh! Legacy of the Duelist,28 Aug ,,Crashes,Game starts with a black screen then crashes.,Ubuntu 18.04,Nvidia 396.54,i5-7600k / GTX 1080,1514223,Default,,480650,5759primaryKey
@@ -6451,7 +6451,7 @@ renderer.cpp(661)",Mint 18.3 (14.5),AMDGPU-pro 17.5,RX480,,Default,,,5754primary
 234290,Zack Zero,23 Aug ,,Stable,Runs close to native minus some framerate dips from time to time,Arch Linux 4.18.4-arch1-1-ARCH,amdgpu 18.0.1-2,i5-4670S / RX 460,,Default,FALSE,234290,5769primaryKey
 22200,Zeno Clash,24 Aug ,Platinum,Completely Stable,"Stable 70+ fps in-game, cutscenes, audio etc. work fine",Manjaro (4.18.3-1 Cinnamon 3.8.8),NVIDIA 396.51-1,i5-3570K / GTX 970,,Default,,https://store.steampowered.com/app/22200,5770primaryKey
 22200,Zeno Clash,27 Aug ,,Completely Stable,Perfect run,Arch Linux 64-bit (4.18.5-arch1-1-ARCH),NVIDIA 396.54,i7-6700K / GTX 1070,,Default,,22200,5771primaryKey
-215690,Zeno Clash 2,21 Aug ,,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,5772primaryKey
+215690,Zeno Clash 2,21 Aug ,Garbage,Crashes,,Debian Testing,NVIDIA 390.77,i5-4690 / GTX 660OC,,Default,FALSE,,5772primaryKey
 466820,Zenodyne R,24 Aug ,Platinum,Completely Stable,no issues,SteamOS,NVIDIA,FX-8350 / GTX 1050 ti,,Default,FALSE,,5773primaryKey
 402030,Zenohell,24 Aug ,,Unplayable,"Game runs but does not seem to recognize any inputs, controller or KB",SteamOS,NVIDIA,FX-8350 / GTX 1050 ti,,Default,FALSE,,5774primaryKey
 477740,Zero Escape: The Nonary Games,26 Aug ,,Stable,"ZE2 requires openal for Audio to work but stable framerate, ZE1 goes black after the menu",Antergos 18.7 (Kernel 4.18.5),NVIDIA 396.54,i5-8400,,Default,,477740,5775primaryKey
