@@ -1641,7 +1641,7 @@ The game hangs when trying to exit.",Arch Linux 64-bit (Kernel 4.18.4),NVIDIA 39
 321040,DiRT 3 Complete Edition,22 Aug ,,Stable,"Sometimes make a black screen when open the game, but, close and open again.",Xubuntu 18.04,NVIDIA 396.51,i7 2600 / GTX 960 4 GB,,Default,,,1445primaryKey
 321040,DiRT 3 Complete Edition,22 Aug ,,Unstable,"Workaround: ""cl_fullscreen 0"" to the launch parameter, to prevent black screen on launch. Also need to disbale rumble for the gamepad, to prevent the gamepad freezing.",Linux Mint 19,Nvidia 396.51,AMD Ryzen 1700 / Nvidia GTX 1080,,Default,FALSE,,1446primaryKey
 321040,DiRT 3 Complete Edition,22 Aug ,Platinum,Completely Stable,,Linux Mint Rosa,Default Open Source driver ?,"AMD A4-6300, a4's igpu (HD 8370D)",,Default,FALSE,,1447primaryKey
-321040,DiRT 3 Complete Edition,22 Aug ,,Stable,,openSUSE Tumbleweed,Mesa,Ryzen 5 1600 / RX 580,,Default,FALSE,,1448primaryKey
+321040,DiRT 3 Complete Edition,22 Aug ,Gold,Stable,,openSUSE Tumbleweed,Mesa,Ryzen 5 1600 / RX 580,,Default,FALSE,,1448primaryKey
 321040,DiRT 3 Complete Edition,22 Aug ,,Stable,"Some sounds do not play, sometimes it's the engine, sometimes the music, sometimes the navigator",Xubuntu 18.04.1,Mesa 18.3.0-devel,i3-6100U / Intel HD 520,,Default,FALSE,,1449primaryKey
 321040,DiRT 3 Complete Edition,22 Aug ,Garbage,Won't Start,"Creates a black window called ""DiRT 3"" but nothing else happens",Ubuntu 18.04,Nvidia 390.48,GTX 970,,Default,FALSE,,1450primaryKey
 321040,DiRT 3 Complete Edition,22 Aug ,,Crashes,"Runs, but isn't visible onscreen; no audio either. It basically just isn't there.",Xubuntu,Nvidia Proprietary driver ?,"i5 6600k, 780ti",,Default,FALSE,,1451primaryKey
@@ -2074,7 +2074,7 @@ https://gist.github.com/thomas-lange/520ebeb899666f6f0354915b7b934582",Linux Min
 201230,Everquest 2,28 Aug ,Garbage,Won't Start,black square at launch and then crashes ,Manjaro 64-bit Kernel 4.14 66-1,NVIDIA 396.54,i7-6800k / GTX 980,,Default,,201230,1835primaryKey
 396750,EVERSPACE™,24 Aug ,Silver,Completely Stable,"Small configuration bug with the mouse position, it might come from my configuration",Linux Mint 18.3,nVidia 390.77,i5 6500 / GTX 460,,Default,,,1836primaryKey
 32150,Everyday Genius: SquareLogic,24 Aug ,Platinum,Completely Stable,Flawless,Manjaro Stable 64-bit (Kernel 4.14.65-1),NVIDIA 396.51,i3-2100 / GeForce GTX 750 Ti,,Default,FALSE,https://store.steampowered.com/app/32150/Everyday_Genius_SquareLogic/,1837primaryKey
-3720,Evil Genius,22 Aug ,,Stable,,"Antergos, 18.1.5",,"Ryzen 5 1600, RX 560",,Default,FALSE,,1838primaryKey
+3720,Evil Genius,22 Aug ,Gold,Stable,,"Antergos, 18.1.5",,"Ryzen 5 1600, RX 560",,Default,FALSE,,1838primaryKey
 3720,Evil Genius,22 Aug ,Silver,Completely Stable,"Couldn't figure out how to get the widescreen patch to work with it, probably a DLL override issue",Sabayon Linux 18.09,Mesa 18.1.6,i7-7700K / Radeon RX 580,,Default,,https://store.steampowered.com/app/3720/,1839primaryKey
 3720,Evil Genius,27 Aug ,,Completely Stable,"No problems running it, and no noticable loss in performance vs playing on Windows 10. ",Ubuntu MATE 18.04,NVIDIA 396.54,Ryzen 7 2700X / GTX 1080,Latest as of 27-08-18,3.7.4 Beta,,3720,1840primaryKey
 3720,Evil Genius,27 Aug ,,Completely Stable,Works great no issues found,Xubuntu 18.04 bionic 64-bit (Kernel 4.15.0-33-generic) ,X.Org Radeon RX 580 Series (POLARIS10 / DRM 3.23.0 ) Version 3.0 Mesa 18.0.1 - padoka PPA,AMD FX-8350 Eight-Core @ 8x 4.199GHz /Radeon RX 580 Series ,,Proton 3.7-4 Beta,,3720,1841primaryKey
@@ -2399,7 +2399,7 @@ If loadscreen in world selection don't work, set cutscenemovie 1 in ~/.steam/ste
 334210,Fortified,22 Aug ,Platinum,Completely Stable,Pretty good. No workarounds.,Ubuntu 64-bit (Kernel 4.15),NVIDIA 396.51,i5 4460 / GTX 960,,Default,,https://store.steampowered.com/app/334210/,2124primaryKey
 334210,Fortified,26 Aug ,Platinum,Completely Stable,No obvious issues but didn't fully test. Only played 20min with a gamepad.,Gentoo 64-bit (Kernel 4.18.4),NVIDIA 396.54,i5-3470 / GTX 950,,3.7-4 Beta,,334210,2125primaryKey
 334210,Fortified,28 Aug ,,Stable,Performance (possibly due to laptop hardware),Linux Mint 18.3 64-bit (Kernel 4.10),NVIDIA 396.54, i5-6200U / GeForce 940M,,Default,,334210,2126primaryKey
-45400,Fortix,22 Aug ,,Stable,,Ubuntu,Padoka PPA ?,Intel i5/Ivy Bridge,,Default,FALSE,,2127primaryKey
+45400,Fortix,22 Aug ,Gold,Stable,,Ubuntu,Padoka PPA ?,Intel i5/Ivy Bridge,,Default,FALSE,,2127primaryKey
 410900,Forts,22 Aug ,,Crashes,"Game runs great, however after a while of playing it crashes with the following popup: https://i.imgur.com/n2R5ro4.png",Arch,4.18.3-arch1-1-ARCH,i3-6100 / Rx460 2GB,,Default,FALSE,,2128primaryKey
 203510,Fortune Summoners: Secret of the Elemental Stone,23 Aug ,,Stable,No Sound,Mint 18 64 bit (4.15),amggpu pro 17.5,FX8200/RX480,,Default,,,2129primaryKey
 840610,Fortune-499,28 Aug ,Garbage,Won't Start,d3d11: failed to create D3D11 device,Ubuntu 16.04,NVIDIA 384.111,AMD FX(tm)-4100 Quad-Core / GeForce GTX 550 Ti,,Default,,840610,2130primaryKey
@@ -2540,7 +2540,7 @@ Multiplayer: error in the server browser (Error message is: ""EOO: invalid metho
 571740,Golf It!,26 Aug ,,Unplayable,Cannot host or join games - When in map editor mode the music was choppy and you could only put in certain directions,Manjaro Stable 64-bit (Kernel 4.18.4-1),Mesa 18.1.6,Ryzen 7 1700/RX 580,0.6.0,3.7-4 Beta,,571740,2251primaryKey
 571740,Golf It!,28 Aug ,,Stable,"Changing graphics settings lower will get 60FPS, but changing resolution will kill your game",Ubuntu 18.04,Nvidia 396,i5 4670k GTX 1080,Latest,Default,,571740,2252primaryKey
 358830,Good Robot,27 Aug ,,Completely Stable,Works great,Debian Stable 64-bit (Kernel 4.9.65),NVIDIA 390.25,i5-4590 / GTX 1070,,Default,,358830,2253primaryKey
-348250,Google Earth VR,21 Aug ,,Stable,,Ubuntu 18.04,NVIDIA 396.51,i5-6600K / GTX 980 Ti,,Default,FALSE,,2254primaryKey
+348250,Google Earth VR,21 Aug ,Gold,Stable,,Ubuntu 18.04,NVIDIA 396.51,i5-6600K / GTX 980 Ti,,Default,FALSE,,2254primaryKey
 348250,Google Earth VR,21 Aug ,,Unstable,Poor framerate,Arch Linux,?,i7-7700k/GTX 1080 ti,,Default,FALSE,,2255primaryKey
 348250,Google Earth VR,25 Aug ,,Unstable,"HTC Vive. Everything works, but performance is vomit-inducing GARBAGE",Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,i7 4790k / GTX 1080 Ti,,3.7-beta,,348250,2256primaryKey
 578620,GORN,25 Aug ,,Unplayable,"No Hands,Weapons, Faces rendered",Arch (Kernel 4.18.4),Nvidia 396.54,"i7-4790K, Nvidia GTX 1070",,Default,,,2257primaryKey
@@ -2561,7 +2561,7 @@ Multiplayer: error in the server browser (Error message is: ""EOO: invalid metho
 12180,Grand Theft Auto 2,21 Aug ,Silver,Completely Stable,"Settings window behaves oddly, but game itself runs normally",Ubuntu 18.04,NVIDIA 396.51,i7 4790k / GTX 1080 Ti,,Default,FALSE,,2272primaryKey
 12180,Grand Theft Auto 2,22 Aug ,Platinum,Completely Stable,"Game launches, plays properly, sounds and music work. The GTA 2 options menu (which launches in a seperate window) also works fine, but I'm unsure if the Resolution option actually works here?",Fedora 28, Nvidia 390.48,Intel i7-4770K / Nvidia GTX 780 Ti,GTA2 v9.6,Default,FALSE,https://store.steampowered.com/app/12180/,2273primaryKey
 12100,Grand Theft Auto III,21 Aug ,,Crashes,"Crashes at the beggining, an error pops up and then the game closes.",elementary OS 0.4.1 Loki,NVIDIA 396.51,FX-6100 / GTX 1050,,Default,FALSE,,2274primaryKey
-12100,Grand Theft Auto III,22 Aug ,,Stable,,Arch Linux,?,GeForce GTX 750,,Default,FALSE,,2275primaryKey
+12100,Grand Theft Auto III,22 Aug ,Gold,Stable,,Arch Linux,?,GeForce GTX 750,,Default,FALSE,,2275primaryKey
 12100,Grand Theft Auto III,22 Aug ,,Stable,"The game will run (sometimes you need manually switch the focus to the Wine window for the game).
 
 I had issues with a xbox360 controller plugged in (in-game screen kept rotating around). With no controller plugged in: the screen follows mouse-movement as normal. 
@@ -2688,7 +2688,7 @@ But, on custom resolution game crashes on launch.",Ubuntu 18.04 (4.15),NVIDIA 39
 255220,GRID Autosport,26 Aug ,,Crashes,Crashes on game logo after startup.,Ubuntu 18.04 (4.15),NVIDIA 396.51,i7-6700K / GTX 1080,,3.7.3,,255220,2353primaryKey
 219990,Grim Dawn,22 Aug ,Platinum,Completely Stable,No noticeable issues,Antergos,?,Ryzen 7 1700 / RX 480,,Default,FALSE,,2354primaryKey
 219990,Grim Dawn,22 Aug ,,Crashes,black window/does not launch,Ubuntu 16.04.5,i915,"Dell Inspiron 3537, i5, 8gb ram, 256gb ssd, Intel HD 4400 integrated graphics",,Default,FALSE,,2355primaryKey
-219990,Grim Dawn,22 Aug ,,Stable,,Voidlinux,Nvidia 390,"1050Ti, FX8350",,Default,FALSE,,2356primaryKey
+219990,Grim Dawn,22 Aug ,Gold,Stable,,Voidlinux,Nvidia 390,"1050Ti, FX8350",,Default,FALSE,,2356primaryKey
 219990,Grim Dawn,22 Aug ,Platinum,Completely Stable,Runs perfectly!,Xubuntu 18.04.1,NVIDIA 390.48,Ryzen 5 1600 / GTX1050ti,,Default,FALSE,,2357primaryKey
 219990,Grim Dawn,22 Aug ,Platinum,Completely Stable,Runs perfectly!,Xubuntu 18.04.1,NVIDIA 390.48,Ryzen 5 1600 / GTX1050ti,,Default,FALSE,,2358primaryKey
 219990,Grim Dawn,22 Aug ,Platinum,Completely Stable,No issues found,Solus 3.9999 (Kernel 4.17.14-86),NVIDIA 390.77,i7-5960X / GTX 1080 Ti,,Default,FALSE,https://store.steampowered.com/app/219990/,2359primaryKey
@@ -3691,7 +3691,7 @@ On a fresh save I can get 60fps using GoldenEye graphics settings, along with ev
 218020,Nethergate: Resurrection,23 Aug ,,Unplayable,"Game Starts in full screen in small box, message of the date window appears and done can only be click, game doesn't proceed past faction screen (can only selection roman and clicking next does nothing but play sound)",Arch Linux,Mesa 18.1.6,Ryzen 7 1600 / RX 570,,Default,,,3294primaryKey
 218020,Nethergate: Resurrection,25 Aug ,Garbage,Won't Start,"Game does not launch, is stuck at 'Preparing to launch Nethergate: Resurrection...'",Antergos 64-bit (Kernel 4.18.4),Mesa 18.1.7-1,i5-3320M / iGPU HD 4000,,Default,FALSE,https://store.steampowered.com/app/218020/Nethergate_Resurrection/,3295primaryKey
 218020,Nethergate: Resurrection,25 Aug ,,Unplayable,"Window resolution is not sized correctly, mouse only registers on certain menu buttons, screen flickers black when buttons are pressed. Not playable in current state.",Antergos 64-Bit (Kernel 4.18.4),Mesa 18.1.7-1,i5-3320M / iGPU HD 4000,,Default,FALSE,https://store.steampowered.com/app/218020/Nethergate_Resurrection/,3296primaryKey
-109600,Neverwinter,22 Aug ,,Stable,,Linux Mint 19,?,AMD Ryzen 7 1700,,Default,FALSE,,3297primaryKey
+109600,Neverwinter,22 Aug ,Gold,Stable,,Linux Mint 19,?,AMD Ryzen 7 1700,,Default,FALSE,,3297primaryKey
 109600,Neverwinter,22 Aug ,,Stable,no,Antergos (Kernel 4.18.3),NVIDIA 396.51,Ryzen 3 1200 / GT 1030,,Default,,,3298primaryKey
 109600,Neverwinter,26 Aug ,,Stable,Playable. Has some audio crackling at times and drops frames after entering a new area but otherwise works well.,Debian Testing 64-bit (Kernel 4.17.0-3),NVIDIA 390.77,i5-6400 / GTX 1050,,Default,,109600,3299primaryKey
 2760,Neverwinter Nights 2: Platinum,22 Aug ,,Crashes,"Crashes with message ""Unable to detect video card with hardware 3D acceleration""",Ubuntu 18.04,NVIDIA 396.51,i7 4790k / GTX 1080 Ti,,Default,FALSE,,3300primaryKey
@@ -3873,7 +3873,7 @@ On a fresh save I can get 60fps using GoldenEye graphics settings, along with ev
 Game previously ran with PlayOnLinux's Steam default install. ",Arch Linux 64-bit (Kernel 4.17.14),i915,i3-3271U / Intel HD 4000,,Default,FALSE,,3473primaryKey
 261570,Ori and the Blind Forest,23 Aug ,Silver,Completely Stable,first launch a little slow (~40sec) then the other fast launches ,Arch Linux 64-bit (Kernel 4.18.3-zen),NVIDIA 396.51,i5 4430 | GTX 690,,Default,FALSE,https://steamdb.info/app/261570/,3474primaryKey
 261570,Ori and the Blind Forest,24 Aug ,,Stable,"Minor slowdown on intro video, after that no issues. Tested with Steam controller.",Ubuntu 18.04.1 LTS 64-bit (kernel 4.15.0-33),NVIDIA 396.54,i5-2500K / GTX 750 Ti,BuildID 814852,Default,FALSE,https://store.steampowered.com/app/261570/Ori_and_the_Blind_Forest/,3475primaryKey
-387290,Ori and the Blind Forest: Definitive Edition,22 Aug ,,Stable,,Xubuntu 18.04.1,?,Nvidia 940mx,,Default,FALSE,,3476primaryKey
+387290,Ori and the Blind Forest: Definitive Edition,22 Aug ,Gold,Stable,,Xubuntu 18.04.1,?,Nvidia 940mx,,Default,FALSE,,3476primaryKey
 387290,Ori and the Blind Forest: Definitive Edition,22 Aug ,,Stable,Loading screen is really slow.  Gameplay seems fine.,Manjaro,Nvidia 396.51,Ryzen 5 1600 / GTX 970,,Default,FALSE,,3477primaryKey
 387290,Ori and the Blind Forest: Definitive Edition,22 Aug ,,Stable,Loading screen is slow but gameplay is fine,Solus Budgie,NVIDIA 390.77,FX-6300 / GTX 750 Ti,,Default,FALSE,,3478primaryKey
 387290,Ori and the Blind Forest: Definitive Edition,22 Aug ,Platinum,Completely Stable,Performs completely smoothly,Ubuntu 18.04 (kernel 4.15),NVIDIA 396.51,NVIDIA GeForce GTX 750 ti,,Default,FALSE,,3479primaryKey
@@ -3906,7 +3906,7 @@ Game previously ran with PlayOnLinux's Steam default install. ",Arch Linux 64-bi
 448510,Overcooked,27 Aug ,,Stable,"Game was able to run with similar performance to Window's counterpart, However the timers were non-functioning. I.e. The timers for each round would not start, additionally items would take additional time to perform such as cutting food related items.",Ubuntu 18.04.1  (Kernel 4.15.0-33-generic),NVIDIA 390.48,Ryzen 5 2600,,3.7-3,,448510,3506primaryKey
 343100,Overture,23 Aug ,Platinum,Completely Stable,No issues found.,Ubuntu 18.04 64-bit (Kernel 4.15.0),NVIDIA 396.54,AMD FX-6100 / GTX 960 4GB,,Default,,343100,3507primaryKey
 343100,Overture,23 Aug ,Platinum,Completely Stable,Works properly (audio/video/inputs),Debian Testing 64bits (Kernel 4.17.0-3),NVIDIA 396.54,NVIDIA K1100M,,Default,FALSE,343100,3508primaryKey
-236450,PAC-MAN Championship Edition DX+,22 Aug ,,Stable,,ArchLinux,?,?,,Default,FALSE,,3509primaryKey
+236450,PAC-MAN Championship Edition DX+,22 Aug ,Gold,Stable,,ArchLinux,?,?,,Default,FALSE,,3509primaryKey
 236450,PAC-MAN Championship Edition DX+,22 Aug ,Platinum,Completely Stable,flawless,Ubuntu 18.04,nvidia 396.51,Intel 6700HQ / nvidia 1060,,Default,FALSE,,3510primaryKey
 236450,PAC-MAN Championship Edition DX+,22 Aug ,Platinum,Completely Stable,No issues,Debian sid,"Mesa 18.1.5, DRM 3.25.0, 4.17.0-1-amd64",A10-7890K / RX 560,BuildID 125726,Default,FALSE,,3511primaryKey
 236450,PAC-MAN Championship Edition DX+,28 Aug ,,Completely Stable,"Works perfectly.  Perfect sound, perfect audio, perfect gameplay.",Ubuntu 18.04.1 LTS 64-bit (Kernel 4.15.0-33),nVidia 396.51,Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz,,Default,,236450,3512primaryKey
@@ -4920,7 +4920,7 @@ You can avoid slowdowns by adding --F or --F30 in the Launch Options in the game
 203650,SONIC THE HEDGEHOG 4 Episode II,28 Aug ,Garbage,Won't Start,Does not start,Antergos,NVIDIA 396.54,i7-6800K / GTX 1080,,Default,,203650,4411primaryKey
 444140,sonico,27 Aug ,,Crashes,show the intro in 720p and medium setting but any higher than that its will show nothing,ubuntu 18.04,nvidia 396.51,ryzen 5 1600 / gtx 970,,Default,,444140,4412primaryKey
 496730,Sorcerer King Rivals,28 Aug ,Garbage,Won't Start,Crashes right after splash screen,Kubuntu 18.04,Mesa 18.3-devel,i5-3210/Intel HD 4000,,3.7.3,,496730,4413primaryKey
-411000,Sorcery! Parts 1 & 2,22 Aug ,,Stable,,Ubuntu Mate 16.04,?,i7-7500U / Intel 5916,,Default,FALSE,,4414primaryKey
+411000,Sorcery! Parts 1 & 2,22 Aug ,Gold,Stable,,Ubuntu Mate 16.04,?,i7-7500U / Intel 5916,,Default,FALSE,,4414primaryKey
 581230,Soul Saber 2,23 Aug ,Platinum,Completely Stable,"Nothing wrong, very smoothly",Gentoo Linux 64-bit(Kernel 4.18),NVIDIA 396.51,i5-6200U,,Default,FALSE,https://store.steampowered.com/app/581230/agecheck,4415primaryKey
 630100,Soul Worker,27 Aug ,Silver,Stable,Some glitches,Fedora 28(4.17),NVIDIA 396.45,i5-5200U / NVIDIA Geforce 840M,1.7.3.8,Default,,630100,4416primaryKey
 630100,SoulWorker,22 Aug ,,Unstable,"Some stuttering, game crashed after exiting a mission",Kubuntu 18.04,NVIDIA 390.48,i7 5820k / GTX 980,,Default,FALSE,,4417primaryKey
@@ -4930,7 +4930,7 @@ You can avoid slowdowns by adding --F or --F30 in the Launch Options in the game
 630100,SoulWorker,28 Aug ,,Completely Stable,Great performence even on highest settings,Ubuntu 18.04 LTS,NVIDIA 396.51,i5-4460 3.2ghzx4/GTX 960,,Default,,https://store.steampowered.com/app/630100/,4421primaryKey
 1840,Source Filmmaker,23 Aug ,,Stable,Works with minor hitches. I don't know what the load times are compared to running on Windows,Xubuntu 18.04,NVIDIA 396.54,i5-6600K / GTX 1060 6GB,,Default,FALSE,https://store.steampowered.com/app/1840/Source_Filmmaker/,4422primaryKey
 213670,South Park™: The Stick of Truth™,22 Aug ,Platinum,Completely Stable,,"Arch, Nvidia 396.51",?,"Intel© Core™ i7-4790K , GTX 1070",,Default,FALSE,,4423primaryKey
-213670,South Park™: The Stick of Truth™,22 Aug ,,Stable,,Mesa 18.1.6,?,? / R9 290x,,Default,FALSE,,4424primaryKey
+213670,South Park™: The Stick of Truth™,22 Aug ,Gold,Stable,,Mesa 18.1.6,?,? / R9 290x,,Default,FALSE,,4424primaryKey
 213670,South Park™: The Stick of Truth™,22 Aug ,,Stable,Some foreground object pop-in/ordering issues. Otherwise mostly playable.,Arch Linux,AMDGPU+RadeonSI+Mesa 18.1,AMD A8-7410/Radeon R5 Mullins,,Default,FALSE,,4425primaryKey
 213670,South Park™: The Stick of Truth™,22 Aug ,,Stable,"Sound seems to be lagging a bit behind, but unsure about that",Manjaro Testing,NVIDIA 396.51,i7-7800K,,Default,FALSE,,4426primaryKey
 213670,South Park™: The Stick of Truth™,22 Aug ,Platinum,Completely Stable,Works great,Kubuntu,AMD GLX,Ryzen 5 1600 / RX560,,Default,FALSE,,4427primaryKey
@@ -5393,7 +5393,7 @@ I'm unable to get music playing though. Still, game is otherwise 100% stable. ",
 445110,Tasty Planet: Back for Settings,28 Aug ,,Stable,Lags when too many objects exist on field (didn't on same hardware on Windows),Linux Ubuntu 64-bit (Kernel 4.15.0-33),Intel Integrated (doesn't show),i5-3317U,,Beta,,445110,4796primaryKey
 568090,Tattletail,27 Aug ,Platinum,Completely Stable,Works Perfectly,Linux Mint 18.3 (kernel 4.15),Nvidia 396.54, i7-6700K / GTX 1070,,3.7-3,,568090,4797primaryKey
 307580,Technobabylon,22 Aug ,Gold,Completely Stable,No pre-game prompt to change settings,Ubuntu 18.04,AMDGPU Mesa 18.3.0-devel,AMD A10 7870K / AMD R7 370,,Default,FALSE,,4798primaryKey
-389730,TEKKEN 7,21 Aug ,,Stable,,Antergos,,?,,Default,FALSE,,4799primaryKey
+389730,TEKKEN 7,21 Aug ,Gold,Stable,,Antergos,,?,,Default,FALSE,,4799primaryKey
 389730,TEKKEN 7,22 Aug ,,Unplayable,"Launched to splash screen, then the error: ""DX11 feature level 10.0 is required to run the engine"". ",Linux Mint 18.3 Cinnamon,NVIDIA 384.130,Intel i3-3250 (4) @ 3.500GHz / NVIDIA GeForce GTX 550 Ti,,Default,FALSE,,4800primaryKey
 389730,TEKKEN 7,23 Aug ,,Unplayable,"When starting: ""DX11 feature levevl 10.0 is required to run the engine.""",Arch Linux 64-bit (Kernel 4.18.3),NVIDIA 396.51-5,"Intel Core i7 4700HQ, NVIDIA GTX 880M",,Default,FALSE,,4801primaryKey
 389730,TEKKEN 7,24 Aug ,,Stable,"Shader compile stutter still exists but is *drastically* reduced compared to Wine and Staging to the point of near unnoticeability. For some reason bowling performs *way* worse than Wine and Staging, though.",Xubuntu 18.04.1 (Kernel 4.15.0),NVIDIA 396.54,GeForce GTX 1060 Laptop,1.13.3,Default,FALSE,https://store.steampowered.com/app/389730/TEKKEN_7/,4802primaryKey
@@ -6094,7 +6094,7 @@ find .local/share/Steam/steamapps/common/RailWorks/ -name ""*.ap"" -execdir unzi
 45760,Ultra Street Fighter IV,28 Aug ,,Completely Stable,"It runs great, Only i did not manage to get in a online match, It says something about DLC missing while we both did not have any DLC",Antergos,NVIDIA 396.54,i7-6800K,,Default,,45760,5432primaryKey
 336140,Unavowed,27 Aug ,,Stable,"Game itself plays fine. Gets AGS error on launch ""Unable to get app data dir: GetShortPathNameW failed"" which you can click OK to",Kubuntu 18.04,NVIDIA 396.64,i7-2600K,1,Default,,336140,5433primaryKey
 512300,Unbox,27 Aug ,,Crashes,Crashes X.  Ouch!,Fedora 28 64-bit,NVIDIA 396.54,AMD FX8350,,3.7-4 Beta,,512300,5434primaryKey
-359580,Uncanny Valley,22 Aug ,,Stable,,Ubuntu Mate,?,i7-7500U / Intel 5916,,Default,FALSE,,5435primaryKey
+359580,Uncanny Valley,22 Aug ,Gold,Stable,,Ubuntu Mate,?,i7-7500U / Intel 5916,,Default,FALSE,,5435primaryKey
 452510,Under Night In-Birth EXE:Late,21 Aug ,,Unplayable,"Engine issue where an opponent will start with 0-ish health, AI doesn't start.",Ubuntu 18.04,nVidia 396.51,i7-8700K / GTX 980,,Default,FALSE,,5436primaryKey
 801630,UNDER NIGHT IN-BIRTH Exe:Late[st],22 Aug ,Silver,Stable,"had 1 sound related lockup in Arcade mode but couldn't reproduce it; videos in gallery only give black screen; Netplay has issues (but that seems to be unrelated to Linux), going by all the complaints from Windows users in the forum, the game seems to work as well/badly in Proton as on Windows.",Ubuntu 16.04.5 LTS with Kernel 4.4.147,nvidia-390.77-0ubuntu0~gpu16.04.1,i7-4770S / GeForce GTX 960,,Default,,https://store.steampowered.com/app/801630/UNDER_NIGHT_INBIRTH_ExeLatest/,5437primaryKey
 801630,UNDER NIGHT IN-BIRTH Exe:Late[st],25 Aug ,Silver,Stable,Works perfectly except for videos in gallery do not work and alt + tab crashes the game. Used a Hori Real Arcade Pro 4 Kai and played various single player modes.,Linux Mint 18.3 64-bit (4.15.0-33-generic),NVIDIA 390.77,Intel i3-3250 (4) @ 3.500GHz / NVIDIA GeForce GTX 550 Ti ,https://steamdb.info/app/801630/,Default,,801630,5438primaryKey
