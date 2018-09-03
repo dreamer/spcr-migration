@@ -3,6 +3,8 @@
 import csv
 
 
+
+
 def find_rows():
     with open('status-migration.csv') as sheet:
         reports = csv.reader(sheet, delimiter=',')
@@ -18,5 +20,25 @@ def find_rows():
                 print(row_no, name, status)
 
 
+def read_rows(file):
+    entries = {}
+    with open(file) as sheet:
+        reports = csv.reader(sheet, delimiter=',')
+        for r in reports:
+            id = r[13]
+            entries[id] = r
+    return entries
+
+
 if __name__ == "__main__":
-    find_rows()
+    file_a = read_rows('status-migration.csv')
+    file_b = read_rows('Steam_Play_Compatibility_Reports_-_Submissions.csv')
+
+    for id_a in file_a:
+        row_a = file_a[id_a]
+        row_b = file_b[id_a]
+        note_a = row_a[5]
+        note_b = row_b[5]
+        if note_a != note_b:
+            print(id_a)
+
